@@ -1,0 +1,7 @@
+Question,answer
+"What type of license is the Apache License, Version 2.0?","""The Apache License is a permissive free software license written by the Apache Software Foundation."""
+"Can the Apache License, Version 2.0 be used for commercial purposes?","""You can use the software for commercial purposes."""
+Does the license require that the source code be disclosed?,"""The license does not require you to disclose the source code."""
+What must be included with the distribution of the software?,"""You must include a copy of the license in any redistribution you make."""
+Does the Apache License provide an express grant of patent rights?,"""The license provides an express grant of patent rights from contributors."""
+What happens if you initiate patent litigation under the Apache License?,"""Your rights under the license terminate automatically if you initiate patent litigation."""

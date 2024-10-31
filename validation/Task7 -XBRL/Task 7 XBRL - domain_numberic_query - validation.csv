@@ -1,0 +1,1781 @@
+financebench_id,doc_name,doc_link,doc_period,question_type,question,answer,evidence_text,page_number
+financebench_id_00499,3M_2022_10K,https://investors.3m.com/financials/sec-filings/content/0000066740-23-000014/0000066740-23-000014.pdf,2022,domain-relevant,Is 3M a capital-intensive business based on FY2022 data?,"No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%","3M Company and Subsidiaries
+ Consolidated Statement of Income
+ Years ended December 31
+ (Millions, except per share amounts) 2022 2021 2020
+ Net sales $ 34,229 $ 35,355 $ 32,184___FINANCEBENCH_DELIMITER___3M Company and Subsidiaries
+ Consolidated Balance Sheet
+ At December 31
+ (Dollars in millions, except per share amount) 2022 2021 Property, plant and equipment 鈥?net 9,178 9,429 Total assets $ 46,455 $ 47,072___FINANCEBENCH_DELIMITER___3M Company and Subsidiaries
+ Consolidated Statement of Cash Flows
+ Years ended December 31
+ (Millions) 2022 2021 2020 Cash Flows from Investing Activities
+ Purchases of property, plant and equipment (PP&E) (1,749) (1,603) (1,501)","48,50,52"
+financebench_id_01226,3M_2022_10K,https://investors.3m.com/financials/sec-filings/content/0000066740-23-000014/0000066740-23-000014.pdf,2022,domain-relevant,"What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.","Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges","SG&A, measured as a percent of sales, increased in 2022 when compared to the same period last year. SG&A was impacted by increased special item costs for significant
+litigation primarily related to steps toward resolving Combat Arms Earplugs litigation (discussed in Note 16) resulting in a 2022 second quarter pre-tax charge of approximately
+$1.2 billion, certain impairment costs related to exiting PFAS manufacturing (see Note 15), costs related to exiting Russia (see Note 15), divestiture-related restructuring
+charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost
+management.",27
+financebench_id_00807,3M_2023Q2_10Q,https://investors.3m.com/financials/sec-filings/content/0000066740-23-000058/0000066740-23-000058.pdf,2023,domain-relevant,"Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.","No. The quick ratio for 3M was 0.96 by Jun'23 close, which needs a bit of an improvement to touch the 1x mark","3M Company and Subsidiaries
+Consolidated Balance Sheet
+(Unaudited)
+(Dollars in millions, except per share amount) June 30, 2023 December 31, 2022
+Assets
+Current assets
+Cash and cash equivalents $ 4,258 $ 3,655
+Marketable securities 鈥?current 56 238
+Accounts receivable 鈥?net of allowances of $160 and $174 4,947 4,532
+Inventories
+Finished goods 2,526 2,497
+Work in process 1,527 1,606
+Raw materials and supplies 1,227 1,269
+Total inventories 5,280 5,372
+Prepaids 674 435
+Other current assets 539 456
+Total current assets 15,754 14,688
+Property, plant and equipment 26,459 25,998
+Less: Accumulated depreciation (17,248) (16,820)
+Property, plant and equipment 鈥?net 9,211 9,178
+Operating lease right of use assets 812 829
+Goodwill 12,869 12,790
+Intangible assets 鈥?net 4,470 4,699
+Other assets 5,764 4,271
+Total assets $ 48,880 $ 46,455
+Liabilities
+Current liabilities
+Short-term borrowings and current portion of long-term debt $ 3,033 $ 1,938
+Accounts payable 3,231 3,183
+Accrued payroll 785 692
+Accrued income taxes 172 259
+Operating lease liabilities 鈥?current 244 261
+Other current liabilities 3,471 3,190
+Total current liabilities 10,936 9,523",5
+financebench_id_00941,3M_2023Q2_10Q,https://investors.3m.com/financials/sec-filings/content/0000066740-23-000058/0000066740-23-000058.pdf,2023,domain-relevant,Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?,"Following debt securities registered under 3M's name are listed to trade on the New York Stock Exchange:
+-1.500% Notes due 2026 (Trading Symbol: MMM26)
+-1.750% Notes due 2030 (Trading Symbol: MMM30)
+-1.500% Notes due 2031 (Trading Symbol: MMM31)","Title of each class Trading Symbol(s) Name of each exchange on which registered
+Common Stock, Par Value $.01 Per Share MMM New York Stock Exchange
+MMM Chicago Stock Exchange, Inc.
+1.500% Notes due 2026 MMM26 New York Stock Exchange
+1.750% Notes due 2030 MMM30 New York Stock Exchange
+1.500% Notes due 2031 MMM31 New York Stock Exchange",1
+financebench_id_00438,ADOBE_2022_10K,https://www.adobe.com/pdf-page.html?pdfTarget=aHR0cHM6Ly93d3cuYWRvYmUuY29tL2NvbnRlbnQvZGFtL2NjL2VuL2ludmVzdG9yLXJlbGF0aW9ucy9wZGZzL0FEQkUtMTBLLUZZMjItRklOQUwucGRm,2022,domain-relevant,"Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.",No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.,"ADOBE INC.
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share data)
+Years Ended
+December 2,
+2022
+December 3,
+2021
+November 27,
+2020
+Revenue:
+Subscription $ 16,388 $ 14,573 $ 11,626
+Product 532 555 507
+Services and other 686 657 735
+Total revenue 17,606 15,785 12,868
+Cost of revenue:
+Subscription 1,646 1,374 1,108
+Product 35 41 36
+Services and other 484 450 578
+Total cost of revenue 2,165 1,865 1,722
+Gross profit 15,441 13,920 11,146
+Operating expenses:
+Research and development 2,987 2,540 2,188
+Sales and marketing 4,968 4,321 3,591
+General and administrative 1,219 1,085 968
+Amortization of intangibles 169 172 162
+Total operating expenses 9,343 8,118 6,909
+Operating income 6,098 5,802 4,237",54
+financebench_id_03029,3M_2018_10K,https://investors.3m.com/financials/sec-filings/content/0001558370-19-000470/0001558370-19-000470.pdf,2018,metrics-generated,What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.,1577,"Table of Contents 
+3M Company and Subsidiaries
+Consolidated Statement of Cash Flow s
+Years ended December 31
+ 
+(Millions)
+    
+2018
+    
+2017
+    
+2016
+ 
+Cash Flows from Operating Activities
+ 
+ 
+  
+ 
+  
+ 
+  
+Net income including noncontrolling interest
+ 
+$
+5,363  
+$
+4,869  
+$
+5,058  
+Adjustments to reconcile net income including noncontrolling interest to net cash
+provided by operating activities
+ 
+ 
+  
+ 
+  
+ 
+  
+Depreciation and amortization
+ 
+ 
+1,488  
+ 
+1,544  
+ 
+1,474  
+Company pension and postretirement contributions
+ 
+ 
+(370) 
+ 
+(967) 
+ 
+(383) 
+Company pension and postretirement expense
+ 
+ 
+410  
+ 
+334  
+ 
+250  
+Stock-based compensation expense
+ 
+ 
+302  
+ 
+324  
+ 
+298  
+Gain on sale of businesses
+ 
+ 
+(545) 
+ 
+(586) 
+ 
+(111) 
+Deferred income taxes
+ 
+ 
+(57) 
+ 
+107  
+ 
+ 7  
+Changes in assets and liabilities
+ 
+ 
+  
+ 
+  
+ 
+  
+Accounts receivable
+ 
+ 
+(305) 
+ 
+(245) 
+ 
+(313) 
+Inventories
+ 
+ 
+(509) 
+ 
+(387) 
+ 
+57  
+Accounts payable
+ 
+ 
+408  
+ 
+24  
+ 
+148  
+Accrued income taxes (current and long-term)
+ 
+ 
+134  
+ 
+967  
+ 
+101  
+Other 鈥?net
+ 
+ 
+120  
+ 
+256  
+ 
+76  
+Net cash provided by (used in) operating activities
+ 
+ 
+6,439  
+ 
+6,240  
+ 
+6,662  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+Cash Flows from Investing Activities
+ 
+ 
+  
+ 
+  
+ 
+  
+Purchases of property, plant and equipment (PP&E)
+ 
+ 
+(1,577) 
+ 
+(1,373) 
+ 
+(1,420) 
+Proceeds from sale of PP&E and other assets
+ 
+ 
+262  
+ 
+49  
+ 
+58  
+Acquisitions, net of cash acquired
+ 
+ 
+13  
+ 
+(2,023) 
+ 
+(16) 
+Purchases of marketable securities and investments
+ 
+ 
+(1,828) 
+ 
+(2,152) 
+ 
+(1,410) 
+Proceeds from maturities and sale of marketable securities and investments
+ 
+ 
+2,497  
+ 
+1,354  
+ 
+1,247  
+Proceeds from sale of businesses, net of cash sold
+ 
+ 
+846  
+ 
+1,065  
+ 
+142  
+Other 鈥?net
+ 
+ 
+ 9  
+ 
+(6) 
+ 
+(4) 
+Net cash provided by (used in) investing activities
+ 
+ 
+222  
+ 
+(3,086) 
+ 
+(1,403) 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+Cash Flows from Financing Activities
+ 
+ 
+  
+ 
+  
+ 
+  
+Change in short-term debt 鈥?net
+ 
+ 
+(284) 
+ 
+578  
+ 
+(797) 
+Repayment of debt (maturities greater than 90 days)
+ 
+ 
+(1,034) 
+ 
+(962) 
+ 
+(992) 
+Proceeds from debt (maturities greater than 90 days)
+ 
+ 
+2,251  
+ 
+1,987  
+ 
+2,832  
+Purchases of treasury stock
+ 
+ 
+(4,870) 
+ 
+(2,068) 
+ 
+(3,753) 
+Proceeds from issuance of treasury stock pursuant to stock option and benefit plans
+ 
+ 
+485  
+ 
+734  
+ 
+804  
+Dividends paid to shareholders
+ 
+ 
+(3,193) 
+ 
+(2,803) 
+ 
+(2,678) 
+Other 鈥?net
+ 
+ 
+(56) 
+ 
+(121) 
+ 
+(42) 
+Net cash provided by (used in) financing activities
+ 
+ 
+(6,701) 
+ 
+(2,655) 
+ 
+(4,626) 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+Effect of exchange rate changes on cash and cash equivalents
+ 
+ 
+(160) 
+ 
+156  
+ 
+(33) 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+Net increase (decrease) in cash and cash equivalents
+ 
+ 
+(200) 
+ 
+655  
+ 
+600  
+Cash and cash equivalents at beginning of year
+ 
+ 
+3,053  
+ 
+2,398  
+ 
+1,798  
+Cash and cash equivalents at end of period
+ 
+$
+2,853  
+$
+3,053  
+$
+2,398  
+ 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+ 
+60",60
+financebench_id_04672,3M_2018_10K,https://investors.3m.com/financials/sec-filings/content/0001558370-19-000470/0001558370-19-000470.pdf,2018,metrics-generated,Assume that you are a public equities analyst. Answer the following question by primarily using information that is shown in the balance sheet: what is the year end FY2018 net PPNE for 3M? Answer in USD billions.,8.7,"Table of Contents 
+3M Company and Subsidiaries
+Consolidated Balance Shee t
+At December 31
+ 
+ 
+    
+December 31,
+    
+December 31,
+ 
+(Dollars in millions, except per share amount)
+    
+2018
+    
+2017
+ 
+Assets
+ 
+ 
+  
+ 
+  
+Current assets
+ 
+ 
+  
+ 
+  
+Cash and cash equivalents
+ 
+$
+2,853  
+$
+3,053  
+Marketable securities 鈥?current
+ 
+ 
+380  
+ 
+1,076  
+Accounts receivable 鈥?net of allowances of $95 and $103
+ 
+ 
+5,020  
+ 
+4,911  
+Inventories
+ 
+ 
+  
+ 
+  
+Finished goods
+ 
+ 
+2,120  
+ 
+1,915  
+Work in process
+ 
+ 
+1,292  
+ 
+1,218  
+Raw materials and supplies
+ 
+ 
+954  
+ 
+901  
+Total inventories
+ 
+ 
+4,366  
+ 
+4,034  
+Prepaids
+ 
+ 
+741  
+ 
+937  
+Other current assets
+ 
+ 
+349  
+ 
+266  
+Total current assets
+ 
+ 
+13,709  
+ 
+14,277  
+Property, plant and equipment
+ 
+ 
+24,873  
+ 
+24,914  
+Less: Accumulated depreciation
+ 
+ 
+(16,135)  
+ 
+(16,048)  
+Property, plant and equipment 鈥?net
+ 
+ 
+8,738  
+ 
+8,866  
+Goodwill
+ 
+ 
+10,051  
+ 
+10,513  
+Intangible assets 鈥?net
+ 
+ 
+2,657  
+ 
+2,936  
+Other assets
+ 
+ 
+1,345  
+ 
+1,395  
+Total assets
+ 
+$
+36,500  
+$
+37,987  
+Liabilities
+ 
+ 
+  
+ 
+  
+Current liabilities
+ 
+ 
+  
+ 
+  
+Short-term borrowings and current portion of long-term debt
+ 
+$
+1,211  
+$
+1,853  
+Accounts payable
+ 
+ 
+2,266  
+ 
+1,945  
+Accrued payroll
+ 
+ 
+749  
+ 
+870  
+Accrued income taxes
+ 
+ 
+243  
+ 
+310  
+Other current liabilities
+ 
+ 
+2,775  
+ 
+2,709  
+Total current liabilities
+ 
+ 
+7,244  
+ 
+7,687  
+ 
+ 
+ 
+  
+ 
+  
+Long-term debt
+ 
+ 
+13,411  
+ 
+12,096  
+Pension and postretirement benefits
+ 
+ 
+2,987  
+ 
+3,620  
+Other liabilities
+ 
+ 
+3,010  
+ 
+2,962  
+Total liabilities
+ 
+$
+26,652  
+$
+26,365  
+Commitments and contingencies (Note 16)
+ 
+ 
+  
+ 
+  
+Equity
+ 
+ 
+  
+ 
+  
+3M Company shareholders鈥?equity:
+ 
+ 
+  
+ 
+  
+Common stock par value, $.01 par value
+ 
+$
+ 9  
+$
+ 9  
+Shares outstanding - 2018: 576,575,168
+ 
+ 
+  
+ 
+  
+Shares outstanding - 2017: 594,884,237
+ 
+ 
+  
+ 
+  
+Additional paid-in capital
+ 
+ 
+5,643  
+ 
+5,352  
+Retained earnings
+ 
+ 
+40,636  
+ 
+39,115  
+Treasury stock
+ 
+ 
+(29,626)  
+ 
+(25,887)  
+Accumulated other comprehensive income (loss)
+ 
+ 
+(6,866)  
+ 
+(7,026)  
+Total 3M Company shareholders鈥?equity
+ 
+ 
+9,796  
+ 
+11,563  
+Noncontrolling interest
+ 
+ 
+52  
+ 
+59  
+Total equity
+ 
+$
+9,848  
+$
+11,622  
+Total liabilities and equity
+ 
+$
+36,500  
+$
+37,987  
+ 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+58",58
+financebench_id_02987,ACTIVISIONBLIZZARD_2019_10K,https://investor.activision.com/static-files/32abe798-add2-4770-9c7d-4cd3a840ede2,2019,metrics-generated,What is the FY2019 fixed asset turnover ratio for Activision Blizzard? Fixed asset turnover ratio is defined as: FY2019 revenue / (average PP&E between FY2018 and FY2019). Round your answer to two decimal places. Base your judgments on the information provided primarily in the statement of income and the statement of financial position.,24.26,"Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(Amounts in millions, except share data)
+ 
+At December 31, 2019
+ 
+At December 31, 2018
+Assets
+ 
+  
+Current assets:
+ 
+  
+Cash and cash equivalents
+$
+5,794
+ $
+4,225
+Accounts receivable, net of allowances of $132 and $190, at December 31, 2019 and December 31, 2018, respectively
+848
+ 
+1,035
+Inventories, net
+32
+ 
+43
+Software development
+322
+ 
+264
+Other current assets
+296
+ 
+539
+Total current assets
+7,292
+ 
+6,106
+Software development
+54
+ 
+65
+Property and equipment, net
+253
+ 
+282
+Deferred income taxes, net
+1,293
+ 
+458
+Other assets
+658
+ 
+482
+Intangible assets, net
+531
+ 
+735
+Goodwill
+9,764
+ 
+9,762
+Total assets
+$
+19,845
+ $
+17,890
+ 
+ 
+  
+Liabilities and Shareholders鈥?Equity
+ 
+  
+Current liabilities:
+ 
+  
+Accounts payable
+$
+292
+ $
+253
+Deferred revenues
+1,375
+ 
+1,493
+Accrued expenses and other liabilities
+1,248
+ 
+896
+Total current liabilities
+2,915
+ 
+2,642
+Long-term debt, net
+2,675
+ 
+2,671
+Deferred income taxes, net
+505
+ 
+18
+Other liabilities
+945
+ 
+1,167
+Total liabilities
+7,040
+ 
+6,498
+Commitments and contingencies (Note 23)
+ 
+Shareholders鈥?equity:
+ 
+ 
+ 
+Common stock, $0.000001 par value, 2,400,000,000 shares authorized, 1,197,436,644 and 1,192,093,991 shares issued at
+December 31, 2019 and December 31, 2018, respectively
+鈥? 
+鈥?Additional paid-in capital
+11,174
+ 
+10,963
+Less: Treasury stock, at cost, 428,676,471 shares at December 31, 2019 and December 31, 2018
+(5,563)  
+(5,563)
+Retained earnings
+7,813
+ 
+6,593
+Accumulated other comprehensive loss
+(619)  
+(601)
+Total shareholders鈥?equity
+12,805
+ 
+11,392
+Total liabilities and shareholders鈥?equity
+$
+19,845
+ $
+17,890
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-4___FINANCEBENCH_DELIMITER___Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Amounts in millions, except per share data)
+ 
+For the Years Ended December 31,
+ 
+2019
+ 
+2018
+ 
+2017
+Net revenues
+ 
+ 
+  
+ 
+Product sales
+$
+1,975
+ $
+2,255  $
+2,110
+Subscription, licensing, and other revenues
+4,514
+ 
+5,245  
+4,907
+Total net revenues
+6,489
+ 
+7,500  
+7,017
+ 
+ 
+  
+  
+Costs and expenses
+ 
+ 
+  
+ 
+Cost of revenues鈥攑roduct sales:
+ 
+  
+  
+Product costs
+656
+ 
+719  
+733
+Software royalties, amortization, and intellectual property licenses
+240
+ 
+371  
+300
+Cost of revenues鈥攕ubscription, licensing, and other revenues:
+ 
+  
+  
+Game operations and distribution costs
+965
+ 
+1,028  
+984
+Software royalties, amortization, and intellectual property licenses
+233
+ 
+399  
+484
+Product development
+998
+ 
+1,101  
+1,069
+Sales and marketing
+926
+ 
+1,062  
+1,378
+General and administrative
+732
+ 
+822  
+745
+Restructuring and related costs
+132
+ 
+10  
+15
+Total costs and expenses
+4,882
+ 
+5,512  
+5,708
+ 
+ 
+  
+  
+Operating income
+1,607
+ 
+1,988  
+1,309
+Interest and other expense (income), net (Note 18)
+(26)  
+71  
+146
+Loss on extinguishment of debt
+鈥? 
+40  
+12
+Income before income tax expense
+1,633
+ 
+1,877  
+1,151
+Income tax expense
+130
+ 
+29  
+878
+Net income
+$
+1,503
+ $
+1,848  $
+273
+ 
+ 
+  
+  
+Earnings per common share
+ 
+ 
+  
+ 
+Basic
+$
+1.96
+ $
+2.43  $
+0.36
+Diluted
+$
+1.95
+ $
+2.40  $
+0.36
+ 
+ 
+  
+  
+Weighted-average number of shares outstanding
+ 
+ 
+  
+ 
+Basic
+767
+ 
+762  
+754
+Diluted
+771
+ 
+771  
+766
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-5","69,70"
+financebench_id_07966,ACTIVISIONBLIZZARD_2019_10K,https://investor.activision.com/static-files/32abe798-add2-4770-9c7d-4cd3a840ede2,2019,metrics-generated,What is the FY2017 - FY2019 3 year average of capex as a % of revenue for Activision Blizzard? Answer in units of percents and round to one decimal place. Calculate (or extract) the answer from the statement of income and the cash flow statement.,0.019,"Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Amounts in millions, except per share data)
+ 
+For the Years Ended December 31,
+ 
+2019
+ 
+2018
+ 
+2017
+Net revenues
+ 
+ 
+  
+ 
+Product sales
+$
+1,975
+ $
+2,255  $
+2,110
+Subscription, licensing, and other revenues
+4,514
+ 
+5,245  
+4,907
+Total net revenues
+6,489
+ 
+7,500  
+7,017
+ 
+ 
+  
+  
+Costs and expenses
+ 
+ 
+  
+ 
+Cost of revenues鈥攑roduct sales:
+ 
+  
+  
+Product costs
+656
+ 
+719  
+733
+Software royalties, amortization, and intellectual property licenses
+240
+ 
+371  
+300
+Cost of revenues鈥攕ubscription, licensing, and other revenues:
+ 
+  
+  
+Game operations and distribution costs
+965
+ 
+1,028  
+984
+Software royalties, amortization, and intellectual property licenses
+233
+ 
+399  
+484
+Product development
+998
+ 
+1,101  
+1,069
+Sales and marketing
+926
+ 
+1,062  
+1,378
+General and administrative
+732
+ 
+822  
+745
+Restructuring and related costs
+132
+ 
+10  
+15
+Total costs and expenses
+4,882
+ 
+5,512  
+5,708
+ 
+ 
+  
+  
+Operating income
+1,607
+ 
+1,988  
+1,309
+Interest and other expense (income), net (Note 18)
+(26)  
+71  
+146
+Loss on extinguishment of debt
+鈥? 
+40  
+12
+Income before income tax expense
+1,633
+ 
+1,877  
+1,151
+Income tax expense
+130
+ 
+29  
+878
+Net income
+$
+1,503
+ $
+1,848  $
+273
+ 
+ 
+  
+  
+Earnings per common share
+ 
+ 
+  
+ 
+Basic
+$
+1.96
+ $
+2.43  $
+0.36
+Diluted
+$
+1.95
+ $
+2.40  $
+0.36
+ 
+ 
+  
+  
+Weighted-average number of shares outstanding
+ 
+ 
+  
+ 
+Basic
+767
+ 
+762  
+754
+Diluted
+771
+ 
+771  
+766
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-5___FINANCEBENCH_DELIMITER___Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Amounts in millions)
+ 
+For the Years Ended December 31,
+ 
+2019
+ 
+2018
+ 
+2017
+Cash flows from operating activities:
+ 
+ 
+ 
+ 
+ 
+Net income
+$
+1,503
+ $
+1,848
+ $
+273
+Adjustments to reconcile net income to net cash provided by operating activities:
+ 
+ 
+ 
+ 
+ 
+Deferred income taxes
+(352)  
+(35)  
+(181)
+Provision for inventories
+6
+ 
+6
+ 
+33
+Non-cash operating lease cost
+64
+ 
+鈥? 
+鈥?Depreciation and amortization
+328
+ 
+509
+ 
+888
+Amortization of capitalized software development costs and intellectual property licenses (1)
+225
+ 
+489
+ 
+311
+Loss on extinguishment of debt
+鈥? 
+40
+ 
+12
+Share-based compensation expense (2)
+166
+ 
+209
+ 
+176
+Unrealized gain on equity investment (Note 10)
+(38)  
+鈥? 
+鈥?Other
+51
+ 
+7
+ 
+40
+Changes in operating assets and liabilities, net of effect from business acquisitions:
+ 
+ 
+ 
+ 
+ 
+Accounts receivable, net
+182
+ 
+(114)  
+(165)
+Inventories
+7
+ 
+(5)  
+(26)
+Software development and intellectual property licenses
+(275)  
+(372)  
+(301)
+Other assets
+164
+ 
+(51)  
+(97)
+Deferred revenues
+(154)  
+(122)  
+220
+Accounts payable
+31
+ 
+(65)  
+85
+Accrued expenses and other liabilities
+(77)  
+(554)  
+945
+Net cash provided by operating activities
+1,831
+ 
+1,790
+ 
+2,213
+Cash flows from investing activities:
+ 
+ 
+ 
+ 
+ 
+Proceeds from maturities of available-for-sale investments
+153
+ 
+116
+ 
+80
+Purchases of available-for-sale investments
+(65)  
+(209)  
+(135)
+Capital expenditures
+(116)  
+(131)  
+(155)
+Other investing activities
+6
+ 
+(6)  
+3
+Net cash used in investing activities
+(22)  
+(230)  
+(207)
+Cash flows from financing activities:
+ 
+ 
+ 
+ 
+ 
+Proceeds from issuance of common stock to employees
+105
+ 
+99
+ 
+178
+Tax payment related to net share settlements on restricted stock units
+(59)  
+(94)  
+(56)
+Dividends paid
+(283)  
+(259)  
+(226)
+Proceeds from debt issuances, net of discounts
+鈥? 
+鈥? 
+3,741
+Repayment of long-term debt
+鈥? 
+(1,740)  
+(4,251)
+Premium payment for early redemption of note
+鈥? 
+(25)  
+鈥?Other financing activities
+鈥? 
+(1)  
+(10)
+Net cash used in financing activities
+(237)  
+(2,020)  
+(624)
+Effect of foreign exchange rate changes on cash and cash equivalents
+(3)  
+(31)  
+76
+Net increase (decrease) in cash and cash equivalents and restricted cash
+1,569
+ 
+(491)  
+1,458
+Cash and cash equivalents and restricted cash at beginning of period
+4,229
+ 
+4,720
+ 
+3,262
+Cash and cash equivalents and restricted cash at end of period
+$
+5,798
+ $
+4,229
+ $
+4,720
+(1)
+Excludes deferral and amortization of share-based compensation expense.
+(2)
+Includes the net effects of capitalization, deferral, and amortization of share-based compensation expense.
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-8","70,73"
+financebench_id_04735,ADOBE_2015_10K,https://www.adobe.com/pdf-page.html?pdfTarget=aHR0cHM6Ly93d3cuYWRvYmUuY29tL2NvbnRlbnQvZGFtL2NjL2VuL2ludmVzdG9yLXJlbGF0aW9ucy9wZGZzL0FEQkUtMTBLLUZZMTUtRklOQUwucGRm,2015,metrics-generated,You are an investment banker and your only resource(s) to answer the following question is (are): the statement of financial position and the cash flow statement. Here's the question: what is the FY2015 operating cash flow ratio for Adobe? Operating cash flow ratio is defined as: cash from operations / total current liabilities. Round your answer to two decimal places.,0.66,"59
+ ADOBE SYSTEMS INCORPORATED
+ CONSOLIDATED BALANCE SHEETS
+(In thousands, except par value)
+ 
+November 27,
+2015
+November 28,
+2014
+ASSETS
+Current assets:
+ 
+ 
+Cash and cash equivalents.................................................................................................................... $
+876,560
+$
+1,117,400
+Short-term investments ........................................................................................................................
+3,111,524
+2,622,091
+Trade receivables, net of allowances for doubtful accounts of $7,293 and $7,867, respectively........
+672,006
+591,800
+Deferred income taxes..........................................................................................................................
+鈥?95,279
+Prepaid expenses and other current assets ...........................................................................................
+161,802
+175,758
+Total current assets..........................................................................................................................
+4,821,892
+4,602,328
+Property and equipment, net...................................................................................................................
+787,421
+785,123
+Goodwill .................................................................................................................................................
+5,366,881
+4,721,962
+Purchased and other intangibles, net.......................................................................................................
+510,007
+469,662
+Investment in lease receivable................................................................................................................
+80,439
+80,439
+Other assets.............................................................................................................................................
+159,832
+126,315
+Total assets...................................................................................................................................... $
+11,726,472
+$
+10,785,829
+LIABILITIES AND STOCKHOLDERS鈥?EQUITY
+Current liabilities:
+ 
+ 
+Trade payables...................................................................................................................................... $
+93,307
+$
+68,377
+Accrued expenses.................................................................................................................................
+678,364
+683,866
+Debt and capital lease obligations........................................................................................................
+鈥?603,229
+Accrued restructuring...........................................................................................................................
+1,520
+17,120
+Income taxes payable...........................................................................................................................
+6,165
+23,920
+Deferred revenue..................................................................................................................................
+1,434,200
+1,097,923
+Total current liabilities....................................................................................................................
+2,213,556
+2,494,435
+Long-term liabilities:
+ 
+ 
+Debt and capital lease obligations........................................................................................................
+1,907,231
+911,086
+Deferred revenue..................................................................................................................................
+51,094
+57,401
+Accrued restructuring...........................................................................................................................
+3,214
+5,194
+Income taxes payable...........................................................................................................................
+256,129
+125,746
+Deferred income taxes..........................................................................................................................
+208,209
+342,315
+Other liabilities.....................................................................................................................................
+85,459
+73,747
+Total liabilities................................................................................................................................
+4,724,892
+4,009,924
+Commitments and contingencies
+Stockholders鈥?equity:
+ 
+ 
+Preferred stock, $0.0001 par value; 2,000 shares authorized; none issued..........................................
+鈥?鈥?Common stock, $0.0001 par value; 900,000 shares authorized; 600,834 shares issued; 
+  497,809 and 497,484 shares outstanding, respectively......................................................................
+61
+61
+Additional paid-in-capital ....................................................................................................................
+4,184,883
+3,778,495
+Retained earnings.................................................................................................................................
+7,253,431
+6,924,294
+Accumulated other comprehensive income (loss) ...............................................................................
+(169,080)
+(8,094)
+Treasury stock, at cost (103,025 and 103,350 shares, respectively), net of reissuances......................
+(4,267,715)
+(3,918,851)
+Total stockholders鈥?equity...............................................................................................................
+7,001,580
+6,775,905
+Total liabilities and stockholders鈥?equity........................................................................................ $
+11,726,472
+$
+10,785,829
+See accompanying Notes to Consolidated Financial Statements.___FINANCEBENCH_DELIMITER___63
+ADOBE SYSTEMS INCORPORATED
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+ 
+Years Ended
+ 
+November 27,
+2015
+November 28,
+2014
+November 29,
+2013
+Cash flows from operating activities:
+ 
+ 
+Net income..................................................................................................................... $
+629,551
+$
+268,395
+$
+289,985
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, amortization and accretion.................................................................
+339,473
+313,590
+321,227
+Stock-based compensation .......................................................................................
+335,859
+333,701
+328,987
+Deferred income taxes..............................................................................................
+(69,657)
+(26,089)
+29,704
+Gain on the sale of property .....................................................................................
+(21,415)
+鈥?鈥?Write down of assets held for sale............................................................................
+鈥?鈥?23,151
+Unrealized (gains) losses on investments.................................................................
+(9,210)
+(74)
+5,665
+Tax benefit from stock-based compensation............................................................
+68,133
+53,225
+25,290
+Excess tax benefits from stock-based compensation................................................
+(68,153)
+(53,235)
+(40,619)
+Other non-cash items................................................................................................
+1,216
+1,889
+5,654
+Changes in operating assets and liabilities, net of acquired assets and
+    assumed liabilities:
+Trade receivables, net ............................................................................................
+(79,502)
+7,928
+33,649
+Prepaid expenses and other current assets .............................................................
+(7,701)
+(1,918)
+(55,509)
+Trade payables .......................................................................................................
+22,870
+6,211
+7,132
+Accrued expenses...................................................................................................
+(5,944)
+37,544
+41,828
+Accrued restructuring.............................................................................................
+(16,620)
+8,871
+(6,949)
+Income taxes payable.............................................................................................
+29,801
+11,006
+(58,875)
+Deferred revenue....................................................................................................
+320,801
+326,438
+201,366
+Net cash provided by operating activities.........................................................
+1,469,502
+1,287,482
+1,151,686
+Cash flows from investing activities:
+ 
+ 
+Purchases of short-term investments .............................................................................
+(2,064,833)
+(2,014,186)
+(2,058,058)
+Maturities of short-term investments.............................................................................
+371,790
+272,076
+360,485
+Proceeds from sales of short-term investments .............................................................
+1,176,476
+1,443,577
+1,449,961
+Acquisitions, net of cash acquired .................................................................................
+(826,004)
+(29,802)
+(704,589)
+Purchases of property and equipment............................................................................
+(184,936)
+(148,332)
+(188,358)
+Proceeds from sale of property ......................................................................................
+57,779
+鈥?24,260
+Purchases of long-term investments, intangibles and other assets ................................
+(22,779)
+(17,572)
+(67,737)
+Proceeds from sale of long-term investments................................................................
+4,149
+3,532
+6,233
+Net cash used for investing activities ...............................................................
+(1,488,358)
+(490,707)
+(1,177,803)
+Cash flows from financing activities:
+ 
+ 
+Purchases of treasury stock............................................................................................
+(625,000)
+(600,000)
+(1,100,000)
+Proceeds from issuance of treasury stock......................................................................
+164,270
+227,841
+598,194
+Cost of issuance of treasury stock..................................................................................
+(186,373)
+(173,675)
+(97,418)
+Excess tax benefits from stock-based compensation.....................................................
+68,153
+53,235
+40,619
+Proceeds from debt and capital lease obligations ..........................................................
+989,280
+鈥?25,703
+Repayment of debt and capital lease obligations...........................................................
+(602,189)
+(14,684)
+(25,879)
+Debt issuance costs ........................................................................................................
+(8,828)
+鈥?(357)
+Net cash used for financing activities...............................................................
+(200,687)
+(507,283)
+(559,138)
+Effect of foreign currency exchange rates on cash and cash equivalents.........................
+(21,297)
+(6,648)
+(5,241)
+Net increase (decrease) in cash and cash equivalents.......................................................
+(240,840)
+282,844
+(590,496)
+Cash and cash equivalents at beginning of year...............................................................
+1,117,400
+834,556
+1,425,052
+Cash and cash equivalents at end of year ......................................................................... $
+876,560
+$
+1,117,400
+$
+834,556
+Supplemental disclosures:
+ 
+Cash paid for income taxes, net of refunds.................................................................... $
+203,010
+$
+20,140
+$
+129,701
+Cash paid for interest ..................................................................................................... $
+56,014
+$
+68,886
+$
+64,843
+Non-cash investing activities:
+Investment in lease receivable applied to building purchase......................................... $
+鈥?$
+126,800
+$
+鈥?Issuance of common stock and stock awards assumed in business acquisitions........... $
+677
+$
+21
+$
+1,160
+See accompanying Notes to Consolidated Financial Statements.","59,63"
