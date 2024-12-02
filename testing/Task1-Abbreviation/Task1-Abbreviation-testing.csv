@@ -1,0 +1,445 @@
+abbreviations,answer
+RTS on reporting,"Commission Delegated Regulation (EU) No 2022/1855 of 10 June 2022 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories with regard to regulatory technical standards specifying the minimum details of the data to be reported to trade repositories and the type of reports to be used"
+ITS on reporting,"Commission Implementing Regulation (EU) No 2022/1860 of 10 June 2022 laying down implementing technical standards for the application of Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories, with regard to the standards, formats, frequency and methods and arrangements for reporting and repealing Implementing Regulation (EU) No 1247/2012"
+RTS on registration,"Commission Delegated Regulation (EU) No 150/2013 of 19 December 2012 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories with regard to regulatory technical standards specifying the details of the application for registration as a trade repository, as amended by Commission Delegated Regulation (EU) 2019/362 of 13 December 2018 5 and by Commission Delegated Regulation (EU) 2022/1857"
+RTS on data quality,"Commission Delegated Regulation (EU) No 2022/1858 of 10 June 2022 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories, with regard to regulatory technical standards specifying the procedures for the reconciliation of data between trade repositories and the procedures to be applied by the trade repository to verify the compliance by the reporting counterparty or submitting entity with the reporting requirements and to verify the completeness and TRUEness of the data reported"
+RTS on data access,"Commission Delegated Regulation (EU) No 151/2013 of 19 December 2012 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories, with regard to regulatory technical standards specifying the data to be published and made available by trade repositories and operational standards for aggregating, comparing and accessing the data, as amended by Commission Delegated Regulation (EU) 2017/1800 and by Commission Delegated Regulation (EU) 2019/361, as amended by the Commission Delegated Regulation (EU) .  2022/185"
+RTS on organisation requirements,Commission Delegated Regulation (EU) 2017/565 of 25 April 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive  
+CFI code,Classification of Financial Instruments code 
+CM,Clearing Member 
+CP,Consultation paper on Guidelines on Reporting under EMIR 
+CP on RTS/ITS,"Consultation paper on the technical standards on reporting, data quality, data access and registration of TRs under EMIR REFIT9 "
+FR on RTS/ITS,"Final report on the technical standards on reporting, data quality, data access and registration of TRs under EMIR REFIT10 "
+CPMI,Committee on Payments and Market Infrastructures 
+EC,European Commission 
+ECB,European Central Bank 
+EEA,European Economic Area 
+ERR,Entity responsible for reporting 
+ESCB,European System of Central Banks 
+EU,European Union 
+FIRDS,Financial Instruments Reference Data System 
+FSB,Financial Stability Board 
+IOSCO,International Organisation of Securities Commissions 
+ISIN,International Securities Identification Number 
+LEI,Legal entity identifier 
+ISO,International Organization for Standardization 
+MIC,Market identifier code 
+NCA,National Competent Authority 
+OJ,The Official Journal of the European Union 
+RSE,Report submitting entity 
+SWIFT,Society for Worldwide Interbank Financial Telecommunication 
+TR,Trade repository 
+UTI,Unique Transaction Identifier
+XML,Extensible Mark-up Language 
+XSD,XML Schema Definition
+ESRB,European Systemic Risk Board
+UCITS,undertaking for collective investment in transferable securities 
+EBA,European Banking Authority
+EIOPA,European Insurance and Occupational Pensions Authority
+TFEU, Treaty on the Functioning of the European Union 
+IORP, institution for occupational retirement provision 
+AIF,Alternative Investment Fund
+AIFM,Alternative Investment Fund Managers
+AIFMD,Alternative Investment Fund Managers Directive
+CCP,Central Counterparty
+FC,Financial Counterparty
+FC+,"Financial Counterparty above the clearing threshold, as referred in Article 4a of EMIR"
+FX,foreign exchange
+MiFID,The Markets in Financial Instruments Directive
+MTF,Multilateral Trading Facility
+NCA,National Competent Authority
+NFC,Non-financial Counterparty
+NFC+,"Non-financial Counterparty above the clearing threshold, as referred to in Article 10 of EMIR"
+NFC-,Non-financial Counterparty below the clearing threshold
+OTC,over-the-counter
+Q&A,Question and Answer
+RTS,Regulatory Technical Standards
+SPV,Special Purpose Vehicle
+TR,Trade Repositories
+UTI,Unique Transaction Identifier
+DORA,Digital Operational Resilience Act
+ESA,European Supervisory Authorities
+TPP,Third-Party Providers
+TPRM,Third-Party Risk Management
+CSP,cloud Service Provider
+CTPPs,Critical ICT Third-Party Providers
+JOF,Joint Oversight Forum
+NIS2,Information Security Directive 2
+PSD2,Payment Services Directive 2
+CSIRTs,Cooperation Group and computer security incident response teams
+ENISA,European Union Agency for Cybersecurity
+PSTN,Public Switched Telephone Network
+POTS,Plain Old Telephone Service
+TLPT,threat-led penetration testing
+G-SIIs,global systemically important institutions
+O-SIIs,other systemically important institutions
+BIA,business impact analysis
+JON,Joint Oversight Network
+EGBPI,"Expert Group on Banking, Payments and Insurance"
+RSB,Regulatory Scrutiny Board
+SFD,settlement finality in payment and securities settlement systems
+MFF,Multiannual Financial Framework
+OLAF,European Anti-Fraud Office
+CIISI-EU,Cyber threat Intelligence Information Sharing Initiative
+CSIRTS,Computer Security Incident Response Teams
+T2S,TARGET2-Securites
+TIPS,TARGET Instant Payment Settlement
+FMIs,financial market infrastructures 
+SSM,Single Supervisory Mechanism
+TIBER-EU,Threat Intelligence Based Ethical Red-teaming
+TCT,TIBER Cyber Team
+DOI,declaration of interests
+DG AGRI,Directorate-General for Agriculture and Rural Development
+EGTOP, Expert Group for Technical Advice on Organic Production
+SCA,Surveillance Authority and a Court of Justice
+INSEE,Institute of Statistics and Economic Studies
+RRF,Recovery and Resilience Facility 
+SDGs,Sustainable Development Goals
+RP,Recovery Plan
+EMU,Economic and Monetary Union
+CSOs,civil society organisations
+NRRPs,National Recovery and Resilience Plans
+OCS,organised civil society
+EPPO,European Public Prosecutor’s Office
+CPSR,Contractor Purchasing System Review
+DCMA,Defense Contract Management Agency
+ACO,"Administrative Contracting Officer,"
+CAR,Correction Action Request
+CAP,Corrective Action Plan
+ADTV,average daily trading volume
+CAPM,Capital Asset Pricing Model
+COD,collect on delivery
+CAGR,compound annual growth rate
+CPI,consumer price index
+CDSC,contingent deferred sales charge
+CE,continuing education
+CNS,continuous net settlement
+DVP,delivery versus payment
+RVP,receive versus payment
+DMA,direct market access
+DCF,discounted cash flow
+DDM,dividend discount model
+DPS,dividend per share
+DBA,doing business as
+DCA,dollar-cost averaging
+DK,don’t know
+DUI,driving under the influence
+DWI,driving while intoxicated
+EED,expiring exercise declaration
+FMCE,Floor Member Continuing Education
+FFI,foreign financial institution
+GTC,good-til-canceled
+GSEs,government-sponsored enterprises
+GDP,gross domestic product
+GNP,gross national product
+GARP,growth at a reasonable price
+GMIB,guaranteed minimum income benefit
+GMWB,guaranteed minimum withdrawal benefit
+GMAB,guaranteed minimum accumulation benefit
+IOI,indication of interest
+IT,information technology
+IRC,internal revenue code
+LOA,letter of authorization
+LOI,letter of intent
+LBO,leveraged buyout
+LIHTC,Low Income Housing Tax Credit
+MICR,magnetic ink character recognition
+MPID,market participant identifier
+MNPI,material nonpublic information
+M&E,mortality and expense
+NBBO,national best bid and offer
+NBB,national best bid
+NBO,national best offer
+NAV,net asset value
+OBA,outside business activity
+OTC,over-the-counter
+POD,payment on delivery
+PCE,personal consumption expenditure
+PII,personally identifiable information
+PPI,producer price index
+POP,public offering price
+REMIC,real estate mortgage investment conduit
+RSL,remote supervisory location
+RMD,required minimum distribution
+ROA,right of accumulation
+SIE,Securities Industry Essentials
+SCP,supervisory control policies and procedures
+TIF,tax increment financing
+TBE,tenants by the entirety
+TIC,tenants in common
+TBA,to-be-announced
+TAM,total addressable market
+TOD,transfer-on-death
+VWAP,volume-weighted average price
+WAM,weighted average maturity
+WKSI,well-known seasoned issuer
+WORM,"write once, read many"
+FINRA,"Financial Industry Regulatory Authority, Inc."
+ROI,Return on Investment
+GL,General Ledger
+COGS,Cost of Goods Sold
+NI,Net Income
+CF,Cash Flow
+BS,Balance Sheets
+FASB,Financial Accounting Standards Board
+SAP,Statutory Accounting Practices
+FSLIC,Federal Savings and Loan Insurance Corporation
+FDIC,Federal Deposit Insurance Corporation
+RTC,Resolution Trust Corporation
+ACFR,Annual Comprehensive Financial Report
+ALN,Assistance Listing Number
+CISA,Certified Information Systems Auditor
+CFE,Certified Fraud Examiner
+CGFM,Certified Government Financial Manager
+CAATs,Computer-Assisted Audit Techniques
+FAC,Federal Audit Clearinghouse
+ISACA,Information Systems Audit and Control Association
+IIA,Institute of Internal Auditors
+GAO,U.S Government Accountability Office
+SEFA,Schedule of Expenditures of Federal Awards
+AICPA,American Institute of Certified Public Accounts
+FEI,Financial Executives International
+AAA,American Accounting Association
+IMA,Institute of Management Accountants
+GASB,Government Accounting Standards Board
+AFR,Annual Financial Report
+SAS,Statements on Auditing Standards
+CFR,Code of Federal Regulations
+GARS,Governmental Accounting Research System
+PCAOB,Public Company Accounting Oversight Board
+NPV,Net Present Value
+CPE,Continuing Professional Education
+OCBOA,Other Comprehensive Basis of Accounting
+RSI,Required Supplementary Information
+FASAB,Federal Accounting Standards Advisory Board
+AUP,Agreed Upon Procedures
+SFAS,Statements of Financial Accounting Standards
+IFRS,International Financial Reporting Standards
+IASB,International Accounting Standard Board
+GFOA,Government Finance Officers Association
+COSO,Committee of Sponsoring Organizations of the Treadway Commission
+OMB,Office of Management and Budget
+BSA,Bank Secrecy Act
+BTFP,Bank Term Funding Program
+CA,Consumer Affairs
+CAMELS,"Capital, Asset quality, Management, Earnings, Liquidity, and Sensitivity to market risk"
+CBLR,Community Bank Leverage Ratio
+CBO,Community Banking Organization
+CDS,Credit Default Swap
+CECL,Current Expected Credit Loss
+CET1,Common Equity Tier 1
+CFP,Contingency Funding Plan
+CRE,Commercial Real Estate
+C&I,Commercial and Industrial
+FASB,Financial Accounting Standards Board
+FBO,Foreign Banking Organization
+FDIC,Federal Deposit Insurance Corporation
+FFIEC,Federal Financial Institutions Examination Council
+Fintech,Financial Technology
+G-SIB,Global Systemically Important Banking Organization
+IHC,Intermediate Holding Company
+IT,Information Technology
+LBO,Large Banking Organization
+LFBO,Large and Foreign Banking Organization
+LFI,Large Financial Institutions
+LISCC,Large Institution Supervision Coordinating Committee
+MRA,Matters Requiring Attention
+MRIA,Matters Requiring Immediate Attention
+NBA,Nonbank Assets
+RBO,Regional Banking Organization
+RRE,Residential Real Estate
+SHC,Securities Holding Company
+SLHC,Savings and Loan Holding Company
+SLOOS,Senior Loan Officer Opinion Survey
+SMB(s),State Member Bank(s)
+SR,Supervision and Regulation
+U.S. G-SIB,Global Systemically Important Banking Organization Headquartered in the United States
+wSTWF,Weighted Short-Term Wholesale Funding
+Merc,Chicago Mercantile Exchange
+ABC,AmerisourceBergen Corporation (Holding Co) Common Stock
+ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share)
+ABG,Asbury Automotive Group Inc Common Stock
+ABM,ABM Industries Incorporated Common Stock
+ABR,Arbor Realty Trust Common Stock
+ABR$A,Arbor Realty Trust Preferred Series A
+AYR,Aircastle Limited Common Stock
+AZN,Astrazeneca PLC Common Stock
+AZO,"AutoZone, Inc. Common Stock"
+AZZ,AZZ Incorporated Common Stock
+B,"Barnes Group, Inc. Common Stock"
+BA,Boeing Company (The) Common Stock
+BABA,Alibaba Group Holding Limited American Depositary Shares each representing one Ordinary share
+BAC,Bank of America Corporation Common Stock
+BAC$D,Bank of America Corporation Depositary Shares Rpstg 1/1000th Interest in Sh of Non Cum Pfd Stk Ser D
+BAC$E,Bank of America Corporation Depositary Sh repstg 1/1000th Perp Pfd Ser E
+BAC$I,Bank Amer Corp Dep Sh Repstg 1/1000th Pfd Ser I
+BAC$L,Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L
+BAC$W,Bank of America Corporation Depository Shares Representing 1/1000th Preferred Series W
+BAC$Z,Bank of America Corporation BAC Capital Trust VIII 6% Capital Securities
+BAC.A,"Bank of America Corporation Class A Warrant expiring January 16, 2019"
+BAC.B,Bank of America Corporation Class B Warrants expiring 10/28/2018
+BWC,Babcock Common Stock
+BWG,Legg Mason BW Global Income Opportunities Fund Inc. Common Stock
+BWP,Boardwalk Pipeline Partners LP Common Units
+BWS,"Brown Shoe Company, Inc. Common Stock"
+BX,The Blackstone Group L.P. Common Units Representing Limited Partnership Interests
+BXC,Bluelinx Holdings Inc. Common Stock
+BXE,Bellatrix Exploration Ltd Ordinary Shares (Canada)
+BXMT,"Blackstone Mortgage Trust, Inc. Common Stock"
+BXMX,Nuveen S&P 500 Buy
+BXP,"Boston Properties, Inc. Common Stock"
+BXP$B,"Boston Properties, Inc. Depositary Shares, each representing 1/100th of a share of the Issuer's 5.25% Sockeries B Cumulative Redeemable Preferred St"
+BXS,"BancorpSouth, Inc. Common Stock"
+BYD,Boyd Gaming Corporation Common Stock
+BYM,Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest
+BZH,"Beazer Homes USA, Inc. Common Stock"
+BZT,"Beazer Homes USA, Inc. Tangible Equity Unit"
+C,"Citigroup, Inc. Common Stock"
+C$C,Citigroup Inc. Depositary Shares representing 1/1000 Series C Noncumulative Preferred Stock (United States)
+C$J,Citigroup Inc. Dep Shs Repstg 1/1000 Pfd Ser J Fixed/Fltg
+C$K,Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser K
+C$L,Citigroup Inc. Depositary Share representing 1/1000 interest in a share of noncumulative series L
+C$N,Citigroup Capital VIII 7.875% Fixed rate Floating Rate trust Preferred Securities (TruPS)
+C$P,Citigroup Inc. Dep Shs Repstg 1/1000th Pfd Ser AA
+C.A,"Citigroup Inc. Warrants Class A expiring January 4, 2019"
+EFM,"Entergy Mississippi, Inc. First Mortgage Bonds, 6.20% Series due April 15, 2040"
+EFR,Eaton Vance Senior Floating
+EFT,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest
+EFX,"Equifax, Inc. Common Stock"
+EGF,"Blackrock Enhanced Government Fund, Inc. Common Stock"
+EGL,"Engility Holdings, Inc. Common Stock"
+EGN,Energen Corporation Common Stock
+EGO,Eldorado Gold Corporation Ordinary Shares
+EGP,"EastGroup Properties, Inc. Common Stock"
+EGY,Vaalco Energy Inc Common Stock
+EHI,Western Asset Global High Income Fund Inc Common Stock
+EHIC,eHi Car Services Limited American Depositary Shares
+EIG,Employers Holdings Inc Common Stock
+EIX,Edison International Common Stock
+EL,"Estee Lauder Companies, Inc. (The) Common Stock"
+ELA,"Entergy Louisiana, LLC First Mortgage Bonds, 5.875% Series due June 15, 2041"
+ELB,"Entergy Louisiana, Inc. 6.0% Series Due March 15, 2040"
+ELJ,"Entergy Louisiana, Inc. First Mortgage Bonds, 5.25% Series due July 1, 2052"
+ELLI,"Ellie Mae, Inc. Common Stock"
+ELP,Companhia Paranaense de Energia (COPEL) Common Stock
+ELS,"Equity Lifestyle Properties, Inc. Common Stock"
+FMO,Fiduciary/Claymore MLP Opportunity Fund Fiduciary/Claymore MLP Opportunity Fund Common Shares of Beneficial Interest
+FMS,Fresenius Medical Care AG Common Stock
+FMSA,FMSA Holdings Inc. Common Stock
+FMX,Fomento Economico Mexicano S.A.B. de C.V. Common Stock
+FMY,First Trust Motgage Income Fund Common Shares of Beneficial Interest
+FN,Fabrinet Ordinary Shares
+FNB,F.N.B. Corporation Common Stock
+FNB$E,"F.N.B. Corporation Depositary Shares, each representing a 1/40th interest in a share of Fixed"
+FNF,"FNF Group of Fidelity National Financial, Inc. Common Stock"
+FNFG$B,First Niagara Financial Group Inc. PFD NON CUM SER B FXD/FLTG
+FNFV,"FNFV Group of Fidelity National Financial, Inc. Common Stock"
+FNV,Franco
+FOE,Ferro Corporation Common Stock
+FOF,Cohen & Steers Closed
+FOR,Forestar Group Inc Common Stock
+FPF,First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest
+FPL,First Trust New Opportunities MLP & Energy Fund Common Shares of Beneficial Interest
+FPO,First Potomac Realty Trust Common Shares of Beneficial Interest
+FPO$A,First Potomac Realty Trust CUMULATIVE REDEEMABLE PFD PERPETUAL SER A
+FPT,Federated Premier Intermediate Municipal Income Fund Federated Premier Intermediate Municipal Income Fund
+FR,"First Industrial Realty Trust, Inc. Common Stock"
+FRA,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock
+FRC,FIRST REPUBLIC BANK Common Stock
+GGE,Guggenheim Enhanced Equity Strategy Fund
+GGG,Graco Inc. Common Stock
+GGM,Guggenheim Credit Allocation Fund Common Shares of Beneficial Interest
+GGP,"General Growth Properties, Inc. Common Stock"
+GGP$A,"General Growth Properties, Inc. Preferred Series A"
+GGT,Gabelli Multi
+GGT$B,Gabelli Multi
+GGZ,Gabelli Global Small and Mid Cap Value Trust (The) Common Shares of Beneficial Interest
+GHC,Graham Holdings Company Common Stock
+GHI,"Global High Income Fund, Inc. Common Stock"
+GHL,"Greenhill & Co., Inc. Common Stock"
+GHM,Graham Corporation Common Stock
+GHY,"Prudential Global Short Duration High Yield Fund, Inc. Common Stock"
+GIB,"CGI Group, Inc. Common Stock"
+GIL,"Gildan Activewear, Inc. Class A Sub. Vot. Common Stock"
+GIM,"Templeton Global Income Fund, Inc. Common Stock"
+GIMO,Gigamon Inc. Common Stock
+GIS,"General Mills, Inc. Common Stock"
+GJH,Synthetic Fixed
+GS,"Goldman Sachs Group, Inc. (The) Common Stock"
+GS$A,"Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non"
+GS$B,"Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series B"
+GS$C,"Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series C"
+GS$D,"Goldman Sachs Group, Inc. (The) Dep Shs repstg 1/1000 Pfd Ser D Fltg"
+GS$I,"Goldman Sachs Group, Inc. (The) Perpetual Preferred Series I"
+GS$J,Goldman Sachs Group Inc Depositary Shs Repstg 1/1000th Pfd Ser J Fixed to Fltg Rate
+GS$K,"Goldman Sachs Group, Inc. (The) Dep Shs Repstg 1/1000 Int Sh Fxd/Fltg Non Cum Pfd Stk Ser K"
+GSF,"Goldman Sachs Group, Inc. (The) 6.125% Notes due 2060"
+GSH,Guangshen Railway Company Limited Common Stock
+GSI,"General Steel Holdings, Inc. Common Stock"
+GSJ,"Goldman Sachs Group, Inc. (The) 6.50% Notes due 2061"
+GSK,GlaxoSmithKline PLC Common Stock
+GSL,Global Ship Lease Inc New Class A Common Shares
+GSL$B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)"
+GTI,GrafTech International Ltd (Holding Co.) Common Stock
+GTN,"Gray Communications Systems, Inc. Common Stock"
+GTN.A,"Gray Television, Inc. CLass A Common Stock"
+GTS,Triple
+GTT,"GTT Communications, Inc. Common Stock"
+HGT,Hugoton Royalty Trust Common Stock
+HHC,Howard Hughes Corporation (The) Common Stock
+HHS,Harte
+HHY,Brookfield High Income Fund Inc.
+HI,Hillenbrand Inc Common Stock
+HIE,Miller/Howard High Income Equity Fund Common Shares of Beneficial Interest
+HIG,"Hartford Financial Services Group, Inc. (The) Common Stock"
+HIG.W,"Hartford Financial Services Group, Inc. (The) Warrants expiring June 26, 2019"
+HII,"Huntington Ingalls Industries, Inc. Common Stock"
+HIL,"Hill International, Inc. Common Stock"
+HIO,"Western Asset High Income Opportunity Fund, Inc. Common Stock"
+HIVE,"Aerohive Networks, Inc. Common Stock"
+HIW,"Highwoods Properties, Inc. Common Stock"
+HIX,Western Asset High Income Fund II Inc. Common Stock
+HJV,"MS Structured Asset Corp MS Structured Asset Corp. SATURNS J.C. Penney Company, Inc. Debenture Backed Series 2007"
+HK,Halcon Resources Corporation Common Stock
+HL,Hecla Mining Company Common Stock
+HL$B,Hecla Mining Company Preferred Stock
+HLF,Herbalife Ltd. Common Stock
+HLS,HealthSouth Corporation Common Stock
+HUSI$D,"HSBC USA, Inc. Preferred Stock"
+HUSI$F,"HSBC USA, Inc. Preferred Series F Floating Rate"
+HUSI$G,"HSBC USA, Inc. Dep Shs repstg 1/40 Preferred Series G"
+HUSI$H,"HSBC USA, Inc. Depositary Sh repstg 1/40th Preferred Series H"
+HUSI$Z,"HSBC USA, Inc. Preferred Stock"
+HVB,Hudson Valley Holding Corp. Common Stock
+HVT,"Haverty Furniture Companies, Inc. Common Stock"
+HVT.A,"Haverty Furniture Companies, Inc. Common Stock"
+HW,Headwaters Incorporated Common Stock
+HXL,Hexcel Corporation Common Stock
+HY,Hyster
+HYB,"New America High Income Fund, Inc. (The) Common Stock"
+HYF,"Managed High Yield Plus Fund, Inc. Common Stock"
+HYH,"Halyard Health, Inc. Common Stock"
+HYI,Western Asset High Yield Defined Opportunity Fund Inc. Common Stock
+HYT,"Blackrock Corporate High Yield Fund, Inc. Common Stock"
+HZO,"MarineMax, Inc. Common Stock"
+I,Intelsat S.A. Common Shares
+I$A,Intelsat S.A. Series A mandatory convefrtible junior non
+ISH,International Shipholding Corporation Common Stock
+ISH$A,International Shipholding Corporation Cumulative Redeemable Perpetual Preferred Series A
+ISH$B,International Shipholding Corporation PERP PFD SER B
+ISP,ING Groep NV 6.20% Perpetual Debt Securities (Netherlands)
+IT,"Gartner, Inc. Common Stock"
+ITC,ITC Holdings Corp. Common Stock
+ITG,"Investment Technology Group, Inc. Common Stock"
+ITT,ITT Corporation Common Stock New
+ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares)
+ITW,Illinois Tool Works Inc. Common Stock
+IVC,Invacare Corporation Common Stock
+IVH,Ivy High Income Opportunities Fund Common Shares of Beneficial Interest
+IVR,INVESCO MORTGAGE CAPITAL INC Common Stock
+IVR$A,Invesco Mortgage Capital Inc. Pfd Ser A
+IVR$B,Invesco Mortgage Capital Inc. Preferred Series B Cum Fxd to Fltg
+IVZ,Invesco Plc New Common Stock
+IX,Orix Corp Ads Common Stock
+JAH,Jarden Corporation Common Stock
+JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I

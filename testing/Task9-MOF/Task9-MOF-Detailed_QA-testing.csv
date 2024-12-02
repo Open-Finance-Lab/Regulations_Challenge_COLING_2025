@@ -1,0 +1,60 @@
+Question_type,Question,answer
+LT,"What is the purpose of the Eclipse Public License, Version 2.0?","""The Eclipse Public License (EPL) is a free and open-source software license most commonly used for the Eclipse IDE."""
+LT,What rights does the EPL grant to the recipients?,"""Each Contributor grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare Derivative Works."""
+LT,Can the software be distributed under a different license?,"""The Contributor may Distribute the Program under a license different than this Agreement."""
+LT,What happens if a contributor includes the Program in a commercial product offering?,"""The Contributor agrees to defend and indemnify every other Contributor against losses arising from claims brought by a third party."""
+LT,What warranty is provided under the EPL?,"""The Program is provided on an 'AS IS' basis, without warranties or conditions of any kind, either express or implied."""
+LT,Is the EPL compatible with the GNU General Public License (GPL)?,"""This Source Code may also be made available under the following Secondary Licenses when the conditions are satisfied: GNU General Public License."""
+LT,What must be included when distributing the program as Source Code?,"""A copy of this Agreement must be included with each copy of the Program."""
+LT,What are the conditions for distributing a modified version of the Program?,"""Modified Works must be made available under this Agreement, or under a Secondary License if conditions are met."""
+LT,What is the effect of initiating patent litigation under the EPL?,"""Recipient's rights under the EPL terminate if they initiate patent litigation against any entity."""
+LT,Can a contributor add their own notices to the program?,"""Contributors may add their own appropriate notices."""
+LT,What type of license is the UPL 1.0?,The UPL 1.0 is a permissive free software license.
+LT,Can the UPL 1.0 be used for commercial purposes?,"Yes, the license allows the software to be used for commercial purposes."
+LT,Does the UPL 1.0 require the disclosure of source code?,"No, the license does not require the disclosure of source code."
+LT,Does the UPL 1.0 provide a patent grant?,"Yes, the license includes a patent grant."
+LT,Can modifications be made to the software under the UPL 1.0?,"Yes, modifications can be made and distributed under the same license."
+LT,What happens if a user initiates patent litigation under the UPL 1.0?,The license terminates automatically if the user initiates patent litigation against any entity.
+LT,What kind of warranty does the UPL 1.0 offer?,"The software is provided ""as-is,"" without warranties or conditions of any kind."
+LT,Are there any trademark restrictions under the UPL 1.0?,"Yes, the license does not grant rights to use the trade names, trademarks, service marks, or product names of the licensor."
+LT,Does the UPL 1.0 allow sublicensing?,"Yes, the license allows for sublicensing."
+LT,What is the purpose of the Model Openness Framework (MOF)?,"The MOF promotes openness and completeness for reproducibility, transparency, and usability in AI."
+LT,What are the main concerns regarding open AI models?,"Concerns include transparency, reproducibility, and safety of AI models."
+LT,What does the MOF require for models to be fully open?,The MOF requires specific components of the model lifecycle to be open-licensed.
+LT,Who introduced the Model Openness Framework?,The MOF was introduced by Matt White and colleagues.
+LT,How does the MOF help in identifying safe models?,It helps identify models with components under permissive open licenses.
+LT,What is open-washing in the context of AI models?,Open-washing refers to falsely promoting models as open-source.
+LT,Why is reproducibility important in AI models?,Reproducibility ensures that AI models can be reliably replicated and verified.
+LT,What is meant by 'completeness' in the MOF?,Completeness refers to the availability of all artifacts from the model development lifecycle.
+LT,What is a 'model producer' in the MOF?,A model producer is anyone who develops and trains a model.
+LT,What is a 'model consumer' in the MOF?,"A model consumer is anyone who adopts, alters, or uses a model."
+LT,What is included in the MOF’s classification system?,The MOF uses a ranked classification system based on openness and completeness.
+LT,What is the significance of open licenses according to MOF?,"Open licenses allow unrestricted use, study, modification, and redistribution of models."
+LT,How does the MOF support transparency in AI research?,The MOF promotes transparency by requiring the release of all model lifecycle artifacts.
+LT,What are the three MOF classes?,"The three MOF classes are Class I, Class II, and Class III."
+LT,Which components are required for a Class I MOF model?,"Class I requires a research paper, datasets, and various lifecycle components."
+LT,Which components are required for a Class II MOF model?,"Class II requires training code, evaluation code, and supporting libraries."
+LT,Which components are required for a Class III MOF model?,"Class III requires model architecture, parameters, and a technical report."
+LT,What does the MOF encourage model producers to do?,It encourages producers to release all artifacts under open licenses.
+LT,What are the benefits of adopting the MOF?,"Benefits include transparency, reproducibility, accountability, and collaboration."
+LT,What are the limitations of the MOF?,"Limitations include reluctance to share, privacy concerns, and legal challenges."
+LT,What is 'source available' in the context of AI?,Source available means models are accessible but not fully open-source.
+LT,What are 'open knowledge' principles in the MOF?,Open knowledge advocates for the free sharing of research and insights.
+LT,What is the role of open science in AI according to MOF?,Open science aims to make all stages of AI research accessible and transparent.
+LT,What does the MOF configuration file contain?,It documents the components and licenses of the model distribution.
+LT,How does MOF define a 'complete' model distribution?,A complete distribution includes all artifacts of the model development lifecycle.
+LT,What is meant by 'evaluation code' in the MOF?,It refers to code used for testing and validating a model’s performance.
+LT,What is 'evaluation data' in the MOF?,Evaluation data refers to datasets used for assessing a model's performance.
+LT,What are model metadata in the MOF?,"Model metadata provide additional information, such as model version and tags."
+LT,Why are training datasets important in the MOF?,"Datasets are essential for training, validating, and testing models."
+LT,What is the Model Openness Tool (MOT)?,The MOT is a tool for evaluating and classifying models based on the MOF.
+LT,What is the role of technical reports in the MOF?,Technical reports provide documentation about model performance and usage.
+LT,What is the purpose of a data card in the MOF?,Data cards describe key information about datasets used in model development.
+LT,What is the role of a model card in the MOF?,Model cards provide details about a model’s intended uses and limitations.
+LT,What is 'inference code' in the MOF?,Inference code refers to code used for running a trained model on new data.
+LT,What are 'supporting libraries and tools' in the MOF?,These are libraries or tools that support model development and usage.
+LT,What are sample model outputs in the MOF?,Sample model outputs are examples generated by the model to illustrate performance.
+LT,How does MOF contribute to AI accountability?,The MOF helps ensure models can be audited for fairness and transparency.
+LT,What are the challenges to achieving openness according to the MOF?,"Challenges include legal constraints, privacy concerns, and commercial pressure."
+LT,What is 'open collaboration' in AI according to MOF?,Open collaboration encourages diverse participation in AI research and development.
+LT,What are the key goals of open AI according to the MOF?,"The goals are to advance AI through transparency, collaboration, and inclusivity."

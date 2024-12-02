@@ -1,0 +1,354 @@
+term,answer
+European Semester for economic policy coordination,‘European Semester for economic policy coordination’ or ‘European Semester’ means the process set out in Article 2-a of Council Regulation (EC) No 1466/97
+country-specific recommendations,‘country-specific recommendations’ means the Council recommendations addressed to each Member State in accordance with Articles 121(2) and 148(4) TFEU in the context of the European Semester
+the rule of law,"‘the rule of law’ refers to the Union value enshrined in Article 2 TEU. It includes the principles of legality implying a transparent, accountable, democratic and pluralistic law-making process; legal certainty; prohibition of arbitrariness of the executive powers; effective judicial protection, including access to justice, by independent and impartial courts, also as regards fundamental rights; separation of powers; and non-discrimination and equality before the law. The rule of law shall be understood having regard to the other Union values and principles enshrined in Article 2 TEU;"
+government entity,"        
+‘government entity’ means a public authority at any level of government, including national, regional and local authorities, as well as Member State organisations within the meaning of point (42) of Article 2 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (16) (the ‘Financial Regulation’)."
+selected obliged entity,"        
+‘selected obliged entity’ means a credit institution, a financial institution, or a group of credit institutions or financial institutions at the highest level of consolidation in the Union in accordance with applicable accounting standards, which is under direct supervision by the Authority pursuant to Article 13"
+non-selected obliged entity,"        
+‘non-selected obliged entity’ means a credit institution, a financial institution, or a group of credit institutions or financial institutions at the highest level of consolidation in the Union in accordance with applicable accounting standards, other than a selected obliged entity"
+AML/CFT supervisory system,‘AML/CFT supervisory system’ means the Authority and the supervisory authorities in Member States;
+non-AML/CFT authority,"        
+‘non-AML/CFT authority’ means:
+
+(a)
+
+a competent authority as defined in Article 4(1), point (40), of Regulation (EU) No 575/2013 of the European Parliament and of the Council (27);
+
+(b)
+
+the European Central Bank (ECB), when it carries out the tasks conferred on it by Regulation (EU) No 1024/2013;
+
+(c)
+
+a resolution authority designated in accordance with Article 3 of Directive 2014/59/EU;
+
+(d)
+
+a designated authority as defined in Article 2(1), point (18), of Directive 2014/49/EU;
+
+(e)
+
+a competent authority as defined in Article 3(1), point (35), of Regulation (EU) 2023/1114."
+crypto-asset,"“crypto-asset” means a crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114 of the European Parliament and of the Council (*8) that is not a central bank digital currency"
+electronic money token,"        
+“electronic money token” or “e-money token” means an electronic money token or e-money token as defined in Article 3(1), point (7), of Regulation (EU) 2023/1114;"
+crypto-asset exposure,"“crypto-asset exposure” means an asset or an off-balance-sheet item related to a crypto-asset that gives rise to credit risk, counterparty credit risk, market risk, operational risk or liquidity risk"
+traditional asset,"“traditional asset” means any asset other than a crypto-asset, including:
+
+(a)
+
+financial instruments as defined in Article 4(1), point (50), of this Regulation;
+
+(b)
+
+funds as defined in Article 4, point (25), of Directive (EU) 2015/2366;
+
+(c)
+
+deposits as defined in Article 2(1), point (3), of Directive 2014/49/EU of the European Parliament and of the Council (*9), including structured deposits;
+
+(d)
+
+securitisation positions in the context of a securitisation as defined in Article 2, point (1), of Regulation (EU) 2017/2402;
+
+(e)
+
+non-life or life insurance products falling within the classes of insurance listed in Annexes I and II to Directive 2009/138/EC or reinsurance and retrocession contracts referred to in that Directive;
+
+(f)
+
+pension products that, under national law, are recognised as having the primary purpose of providing the investor with an income in retirement and that entitle the investor to certain benefits;
+
+(g)
+
+officially recognised occupational pension schemes within the scope of Directive (EU) 2016/2341 of the European Parliament and of the Council (*10) or Directive 2009/138/EC;
+
+(h)
+
+individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider;
+
+(i)
+
+a pan-European Personal Pension Product as defined in Article 2, point (2), of Regulation (EU) 2019/1238 of the European Parliament and of the Council (*11);
+
+(j)
+
+social security schemes covered by Regulation (EC) No 883/2004 of the European Parliament and of the Council (*12) and Regulation (EC) No 987/2009 of the European Parliament and of the Council (*13);"
+tokenised traditional asset,"        
+“tokenised traditional asset” means a type of crypto-asset that represents a traditional asset, including an e-money token"
+centralised information system,‘centralised information system’ means a central IT system where the storage and processing of JITs-related data takes place
+communication software,"‘communication software’ means software that facilitates the exchange of files and messages in text, audio, image or video formats between JITs collaboration platform users"
+money laundering,"‘money laundering’ means the conduct set out in Article 3, paragraphs 1 and 5, of Directive (EU) 2018/1673 including aiding and abetting, inciting and attempting to commit that conduct, whether the activities which generated the property to be laundered were carried out on the territory of a Member State or on that of a third country; knowledge, intent or purpose required as an element of that conduct may be inferred from objective factual circumstances"
+terrorist financing,"‘terrorist financing’ means the conduct set out in Article 11 of Directive (EU) 2017/541 including aiding and abetting, inciting and attempting to commit that conduct, whether carried out on the territory of a Member State or on that of a third country; knowledge, intent or purpose required as an element of that conduct may be inferred from objective factual circumstances"
+criminal activity’,"        
+‘criminal activity’ means criminal activity as defined in Article 2, point (1), of Directive (EU) 2018/1673, as well as fraud affecting the Union’s financial interests as defined in Article 3(2) of Directive (EU) 2017/1371, passive and active corruption as defined in Article 4 (2) and misappropriation as defined in Article 4(3), second subparagraph, of that Directive"
+credit institution,"        
+‘credit institution’ means:
+
+(a)
+
+a credit institution as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013;
+
+(b)
+
+a branch of a credit institution, as defined in Article 4(1), point (17), of Regulation (EU) No 575/2013, when located in the Union, whether its head office is located in a Member State or in a third country;"
+financial institution,"        
+‘financial institution’ means:
+
+(a)
+
+an undertaking other than a credit institution or an investment firm, which carries out one or more of the activities listed in points (2) to (12), (14) and (15) of Annex I to Directive 2013/36/EU of the European Parliament and of the Council (32), including the activities of currency exchange offices (bureaux de change), but excluding the activities referred to in point (8) of Annex I to Directive (EU) 2015/2366, or an undertaking the principal activity of which is to acquire holdings, including a financial holding company, a mixed financial holding company and a financial mixed activity holding company;
+
+(b)
+
+an insurance undertaking as defined in Article 13, point (1), of Directive 2009/138/EC of the European Parliament and of the Council (33), insofar as it carries out life or other investment-related assurance activities covered by that Directive, including insurance holding companies and mixed-activity insurance holding companies as defined, respectively, in Article 212(1), points (f) and (g), of Directive 2009/138/EC;
+
+(c)
+
+an insurance intermediary as defined in Article 2(1), point (3), of Directive (EU) 2016/97 where it acts with respect to life insurance and other investment-related insurance services, with the exception of an insurance intermediary that does not collect premiums or amounts intended for the customer and which acts under the responsibility of one or more insurance undertakings or intermediaries for the products which concern them respectively;
+
+(d)
+
+an investment firm as defined in Article 4(1), point (1), of Directive 2014/65/EU of the European Parliament and of the Council (34);
+
+(e)
+
+a collective investment undertaking, in particular:
+
+(i)
+
+an undertaking for collective investment in transferable securities (UCITS) as defined in Article 1(2) of Directive 2009/65/EC and its management company as defined in Article 2(1), point (b), of that Directive or an investment company authorised in accordance with that Directive and which has not designated a management company, that makes available for purchase units of UCITS in the Union;
+
+(ii)
+
+an alternative investment fund as defined in Article 4(1), point (a), of Directive 2011/61/EU and its alternative investment fund manager as defined in Article 4(1), point (b), of that Directive that fall within the scope set out in Article 2 of that Directive;
+
+(f)
+
+a central securities depository as defined in Article 2(1), point (1), of Regulation (EU) No 909/2014 of the European Parliament and of the Council (35);
+
+(g)
+
+a creditor as defined in Article 4, point (2), of Directive 2014/17/EU of the European Parliament and of the Council (36) and in Article 3, point (b), of Directive 2008/48/EC of the European Parliament and of the Council (37);
+
+(h)
+
+a credit intermediary as defined in Article 4, point (5), of Directive 2014/17/EU and in Article 3, point (f), of Directive 2008/48/EC, when holding the funds as defined in Article 4, point (25), of Directive (EU) 2015/2366 in connection with the credit agreement, with the exception of the credit intermediary carrying out activities under the responsibility of one or more creditors or credit intermediaries;
+
+(i)
+
+a crypto-asset service provider;
+
+(j)
+
+a branch of a financial institution referred to in points (a) to (i), when located in the Union, whether its head office is located in a Member State or in a third country;"
+crypto-asset services,"‘crypto-asset services’ means crypto-asset services as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114, with the exception of providing advice on crypto-assets as referred to in Article 3(1), point (16)(h), of that Regulation"
+crypto-asset service provider,"        
+‘crypto-asset service provider’ means a crypto-asset service provider as defined in Article 3(1), point (15), of Regulation (EU) 2023/1114 where performing one or more crypto-asset services"
+financial mixed activity holding company,"        
+‘financial mixed activity holding company’ means an undertaking, other than a financial holding company or a mixed financial holding company, which is not the subsidiary of another undertaking, the subsidiaries of which include at least one credit institution or financial institution"
+trust or company service provider,"‘trust or company service provider’ means any natural or legal person that, by way of its business, provides any of the following services to third parties:
+
+(a)
+
+the formation of companies or other legal persons;
+
+(b)
+
+acting as, or arranging for another person to act as, a director or secretary of a company, a partner of a partnership, or a similar position in relation to other legal persons;
+
+(c)
+
+providing a registered office, business address, correspondence address or administrative address, as well as other related services for a company, a partnership or any other legal person or legal arrangement;
+
+(d)
+
+acting as, or arranging for another person to act as, a trustee of an express trust or performing an equivalent function for a similar legal arrangement;
+
+(e)
+
+acting as, or arranging for another person to act as, a nominee shareholder for another person;"
+gambling service,"        
+‘gambling service’ means a service which involves wagering a stake with monetary value in games of chance, including those with an element of skill, such as lotteries, casino games, poker games and betting transactions that are provided at a physical location, or by any means at a distance, by electronic means or any other technology for facilitating communication, and at the individual request of a recipient of services"
+crowdfunding intermediary,"‘crowdfunding intermediary’ means an undertaking other than a crowdfunding service provider the business of which is to match or facilitate the matching, through an internet-based information system open to the public or to a limited number of funders, of:
+
+(a)
+
+project owners, which are any natural or legal person seeking funding for projects, consisting of one or a set of predefined operations aiming at a particular objective, including fundraising for a particular cause or event irrespective of whether those projects are proposed to the public or to a limited number of funders; and
+
+(b)
+
+funders, which are any natural or legal person contributing to the funding of projects, through loans, with or without interest, or donations, including where such donations entitle the donor to a non-material benefit;"
+establishment’,"‘establishment’ means the actual pursuit by an obliged entity of an economic activity covered by Article 3 in a Member State or third country other than the country where its head office is located for an indefinite period and through a stable infrastructure, including:
+
+(a)
+
+a branch or subsidiary;
+
+(b)
+
+in the case of credit institutions and financial institutions, an infrastructure qualifying as an establishment under prudential regulation;"
+business relationship,"‘business relationship’ means a business, professional or commercial relationship connected with the professional activities of an obliged entity, which is set up between an obliged entity and a customer, including in the absence of a written contract and which is expected to have, at the time when the contact is established, or which subsequently acquires, an element of repetition or duration"
+linked transactions,"‘linked transactions’ means two or more transactions with either identical or similar origin, destination and purpose, or other relevant characteristics, over a specific period;"
+third country,"‘third country’ means any jurisdiction, independent state or autonomous territory that is not part of the Union and that has its own AML/CFT legislation or enforcement regime"
+correspondent relationship,"‘correspondent relationship’ means:
+
+(a)
+
+the provision of banking services by one credit institution as the correspondent to another credit institution as the respondent, including providing a current or other liability account and related services, such as cash management, international transfers of funds as defined in Article 4, point (25), of Directive (EU) 2015/2366, cheque clearing, payable-through accounts and foreign exchange services;
+
+(b)
+
+the relationships between and among credit institutions and financial institutions including where similar services are provided by a correspondent institution to a respondent institution, and including relationships established for securities transactions or transfers of funds as defined in Article 4, point (25), of Directive (EU) 2015/2366, transactions in crypto-assets or transfers of crypto-assets"
+shell institution,"‘shell institution’ means:
+
+(a)
+
+for credit institutions and financial institutions other than crypto-asset service providers: a credit institution or financial institution, or an institution that carries out activities equivalent to those carried out by credit institutions and financial institutions, created in a jurisdiction in which it has no physical presence, involving meaningful mind and management, and which is unaffiliated with a regulated financial group;
+
+(b)
+
+for crypto-asset service providers: an entity whose name appears in the register established by the European Securities and Markets Authority pursuant to Article 110 of Regulation (EU) 2023/1114 or third country entity providing crypto-asset services without being licensed or registered nor subject to AML/CFT supervision there"
+anonymity-enhancing coins,"        
+‘anonymity-enhancing coins’ means crypto-assets that have built-in features designed to make crypto-asset transfer information anonymous, either systematically or optionally"
+virtual IBAN,‘virtual IBAN’ means an identifier causing payments to be redirected to a payment account identified by an IBAN different from that identifier
+Legal Entity Identifier,‘Legal Entity Identifier’ means a unique alphanumeric reference code based on the ISO 17442 standard assigned to a legal entity
+beneficial owner,"        
+‘beneficial owner’ means any natural person who ultimately owns or controls a legal entity or an express trust or similar legal arrangement"
+express trust,"        
+‘express trust’ means a trust intentionally set up by the settlor, inter vivos or on death, usually in a form of written document, to place assets under the control of a trustee for the benefit of a beneficiary or for a specified purpose"
+objects of a power,‘objects of a power’ means the natural or legal persons or class of natural or legal persons among whom trustees may select the beneficiaries in a discretionary trust
+default taker,"        
+‘default taker’ means the natural or legal persons or class of natural or legal persons who are the beneficiaries of a discretionary trust should the trustees fail to exercise their discretion;"
+legal arrangement,"        
+‘legal arrangement’ means an express trust or an arrangement which has a similar structure or function to an express trust, including fiducie and certain types of Treuhand and fideicomiso"
+management body,"        
+‘management body’ means an obliged entity’s body or bodies, which are appointed in accordance with national law, which are empowered to set the obliged entity’s strategy, objectives and overall direction, and which oversee and monitor management decision-making, and include the persons who effectively direct the business of the obliged entity; where no such body exists, the person who effectively directs the business of the obliged entity"
+management body in its management function,‘management body in its management function’ means the management body responsible for the day-to-day management of the obliged entity
+management body in its supervisory function’,"        
+‘management body in its supervisory function’ means the management body acting in its role of overseeing and monitoring management decision-making"
+Authorized Trader,person who may submit orders to the Exchange on behalf of his or her member organization.
+"Away Market
+
+","means any exchange, alternative trading system (""ATS"") or other broker-dealer (1) with which the Exchange maintains an electronic linkage and (2) that provides instantaneous responses to orders routed from the Exchange. The Exchange will designate from time to time those ATSs or other broker-dealers that qualify as Away Markets."
+Eligible Security,"means any equity security (i) either listed on the Exchange or traded on the Exchange pursuant to a grant of unlisted trading privileges under Section 12(f) of the Exchange Act and (ii) specified by the Exchange to be traded on the Exchange or other facility, as the case may be."
+Exchange,means New York Stock Exchange LLC.
+Exchange Act,"shall mean the Securities Exchange Act of 1934, as amended."
+Exchange Book,"refers to the Exchange's electronic file of orders, which contains all orders entered on the Exchange."
+Exchange Traded Product,"means a security that meets the definition of “derivative securities product” in Rule 19b-4(e) under the Securities Exchange Act of 1934 and a “UTP Exchange Traded Product” means one of the following Exchange Traded Products that trades on the Exchange pursuant to unlisted trading privileges:Equity Linked Notes,
+Investment Company Units listed pursuant to NYSE Arca, Inc. Rule 5.2- E(j)(3) and Index Fund Shares listed pursuant to Cboe BZX Exchange, Inc. Rule 14.11(c) or Nasdaq Stock Exchange LLC Rule 5705(b),
+Index-Linked Exchangeable Notes,Equity Gold Shares,Equity Index-Linked Securities,Commodity-Linked Securities,Currency-Linked Securities,Fixed-Income Index-Linked Securities,Futures-Linked Securities,Multifactor-Index-Linked Securities,Trust Certificates,Currency and Index Warrants,Portfolio Depository Receipts,Trust Issued Receipts,Commodity-Based Trust Shares,Currency Trust Shares,Commodity Index Trust Shares,Commodity Futures Trust Shares,Partnership Units,Paired Trust Shares,Trust Units,Managed Fund Shares,Managed Trust Securities,Managed Portfolio Shares, and Active Proxy Portfolio Shares listed pursuant to NYSE Arca, Inc. Rule 8.601- E, Tracking Fund Shares listed pursuant to Cboe BZX Exchange, Inc. Rule 14.11(m), and Proxy Portfolio Shares listed pursuant to Nasdaq Stock Market LLC Rule 5750."
+Rule 2010. Standards of Commercial Honor and Principles of Trade ,"A member or member organization, in the conduct of its business, shall observe high standards of commercial honor and just and equitable principles of trade."
+"Rule 2020. Use of Manipulative, Deceptive or Other Fraudulent Devices ","No member or member organization shall effect any transaction in, or induce the purchase or sale of, any security by means of any manipulative, deceptive or other fraudulent device or contrivance."
+System Securities,shall mean (A) all securities listed on Nasdaq and (B) all securities subject to the Consolidated Tape Association Plan and the Consolidated Quotation Plan except securities specifically excluded from trading via a list of excluded securities posted on www.nasdaqtrader.com.
+Audit,a formal review of a person or company's financial records by professional accountants
+Financial Statement Audit,"engagement performed by an independent accountant, designed to demonstrate that an organization’s financial statements are prepared in accordance with generally accepted accounting principles (GAAP) or other recognized frameworks"
+Insurance Scores,confidential ratings calculated by insurance companies primarily by using data from your credit history
+Default Risk,"risk a lender takes that a borrower will not make the required payments on a debt obligation, such as a loan, a bond, or a credit card."
+Reserve Ratio,"portion of reservable liabilities that commercial banks must hold onto, rather than lend out or invest"
+Comptroller,a high-level executive that oversees the accounting tasks and financial reporting procedures of organizations
+National Member Bank,any national bank which is a member of the Federal Reserve System
+State Member Bank,any State bank which is a member of the Federal Reserve System
+Mutual Savings Bank,"a bank without capital stock transacting a savings bank business, the net earnings of which inure wholly to the benefit of its depositors after payment of obligations for any advances by its organizers"
+Assertion,"management’s implicit or explicit representation to the auditor relating to recognition, measurement, and presentation of the financial statement items and disclosures."
+Attestation Engagements,"examination, review, or agreed-upon procedures engagement performed under the attestation standards related to subject matter or an assertion that is the responsibility of another party."
+Earmarking,"includes requirements that specify the minimum and/or maximum amount or percentage of the program’s funding that must/may be used for specified activities, including funds provided to subrecipients."
+Misfeasance,not doing a lawful act in a proper manner.
+Scope,the boundary of the audit and is directly tied to the audit objectives.
+Population,the entire set of data from which a sample is selected and about which the auditor wishes to draw conclusions.
+Opinion Unit,"a reporting unit, or aggregation of reporting units, of a governmental entity."
+Malfeasance,"wrongful or unjust doing of some act which the doer has no right to perform, or which he has stipulated by contract not to do."
+Infrastructure Asset,long-lived capital asset that is normally stationary and can be preserved for a significantly greater number of years than most capital assets.
+Grantor,government agency from which funding for the government program originates.
+Repeat Finding,finding in a subsequent report that is the same as or substantially similar to the finding contained in a previous report.
+Representation Letter,written statement by management provided to the auditor to confirm certain matters or to support other audit evidence.
+Sampling,"the selection and evaluation of less than 100 percent of the population of audit relevance such that the auditor expects the items selected (the sample) to be representative of the population and thus, likely to provide reasonable assurance for conclusions about the entire population"
+Monetary Policy,"The actions taken by the Federal Reserve to manage the money supply and interest rates in order to influence economic activity, primarily aimed at achieving maximum employment, stable prices, and moderate long-term interest rates."
+Discount Rate,"The interest rate charged by the Federal Reserve to commercial banks and other depository institutions on loans they receive from the Federal Reserve's lending facility, known as the discount window."
+Reserve Requirements,The regulation set by the Federal Reserve that determines the minimum amount of reserves that a depository institution must hold against its deposit liabilities. These reserves can be held in the form of vault cash or deposits with the Federal Reserve.
+Federal Open Market Committee (FOMC),"The branch of the Federal Reserve responsible for overseeing open market operations, which include the buying and selling of government securities, to control the money supply and influence interest rates."
+Open Market Operations,The buying and selling of U.S. Treasury and other government securities in the open market by the Federal Reserve in order to influence the supply of money and credit in the economy.
+Federal Funds Rate,"The interest rate at which depository institutions lend reserve balances to other depository institutions overnight, and it is a key benchmark interest rate that the Federal Reserve influences through its monetary policy actions."
+Quantitative Easing (QE),"A monetary policy tool used by the Federal Reserve that involves purchasing long-term securities, such as Treasury bonds and mortgage-backed securities, to inject liquidity into the economy and lower long-term interest rates."
+Dual Mandate,"The Federal Reserve's congressionally assigned objectives of achieving maximum employment and stable prices (low inflation), which guide its monetary policy decisions."
+Supervision and Regulation,"The Federal Reserve's oversight of banks, bank holding companies, and financial institutions to ensure they operate in a safe and sound manner, comply with laws and regulations, and contribute to the overall stability of the financial system."
+Stress Tests,Simulations conducted by the Federal Reserve to assess how banks and financial institutions can withstand adverse economic conditions and maintain sufficient capital to operate effectively.
+Beneficial Ownership Reporting,"Refers to the requirement for “reporting companies” to disclose their beneficial owners to the Financial Crimes Enforcement Network (FinCEN). This rule, which became effective on January 1, 2024, mandates that companies report key information about their ownership within specific deadlines based on their creation date."
+Debit Card Interchange Fee,"A proposed Federal Reserve rule in 2023 to lower the maximum fee large debit card issuers can charge for each transaction. The new caps would reduce the fee from 21 cents plus 0.05% of the transaction amount to 14.4 cents plus 0.04%, with a separate fraud-prevention adjustment. This change is set to take effect on June 30, 2025."
+Automated Valuation Models (AVMs),"Federal Reserve rule proposed in June 2023 to require quality control standards for AVMs used in mortgage originations and securitizations. The standards aim to ensure accuracy and prevent discriminatory practices in property valuations, addressing concerns over bias and conflicts of interest."
+Reconsideration of Value (ROV) Guidance,"Issued in 2023, this proposed guidance provides a process for consumers to challenge residential real estate valuations by submitting evidence of errors or biases. This process is part of efforts to ensure accuracy and fairness in real estate appraisals, particularly in response to concerns over racial bias."
+Community Reinvestment Act (CRA) Modernization,"A finalized rule in October 2023 modernizes the CRA to better evaluate how well banks serve low- and moderate-income communities. This includes updated data collection requirements and new ways to measure a bank’s impact on these communities, ensuring their lending practices are equitable and fair."
+Reserve Requirement Amendments,"The Federal Reserve's amendment for 2024 continues to index the reserve requirement exemption amount and the low reserve tranche for depository institutions, allowing certain banks to maintain lower reserve amounts based on their asset size."
+Federal Funds Rate Adjustments,"Regular changes by the Federal Reserve to the rate at which banks lend reserves to one another overnight. As of September 2024, the rate was lowered to 4.9%, part of ongoing adjustments aimed at controlling inflation and stabilizing the economy."
+Climate-Related Financial Risk Management,Refers to the Federal Reserve's principles and guidelines for large financial institutions to manage risks associated with climate change. This includes identifying and mitigating the physical and transition risks that climate change poses to the financial system.
+Capital Requirements for Insurers,Federal Reserve regulations that set capital and risk management requirements for insurance companies under the supervision of the Federal Reserve. These requirements ensure that insurers maintain sufficient financial resources to cover their risks and obligations.
+Central Bank Digital Currency (CBDC),"A concept under exploration by the Federal Reserve involving the issuance of a digital form of the U.S. dollar. CBDCs could facilitate secure, efficient payments and offer a stable alternative to cryptocurrencies while being fully regulated by the government."
+Cybersecurity Risk Management,"Federal Reserve rules and guidelines that require financial institutions to implement robust cybersecurity measures. These include risk assessments, data protection, and response strategies to safeguard against cyber threats that could disrupt the financial system."
+FedNow Service,"A Federal Reserve initiative providing real-time payments for financial institutions, allowing them to offer faster, 24/7/365 payment processing to businesses and consumers. This service enhances the efficiency and accessibility of payment systems."
+Volcker Rule,"Part of the Dodd-Frank Act, this regulation restricts banks from engaging in certain speculative investments that do not benefit their customers. It aims to reduce risky behaviors that contributed to the 2008 financial crisis by limiting proprietary trading and relationships with hedge funds and private equity funds."
+Liquidity Coverage Ratio (LCR),A Federal Reserve regulation that requires banks to hold a sufficient amount of high-quality liquid assets (HQLA) to cover their total net cash outflows for a 30-day stress period. This ensures that banks can meet short-term obligations during financial stress.
+Resolution Planning (Living Wills),"Large banks are required to submit resolution plans, often referred to as ""living wills,"" to the Federal Reserve. These plans detail how the bank could be dismantled in an orderly fashion in the event of failure, without requiring taxpayer bailouts or causing significant harm to the financial system."
+Stress Testing Requirements,Federal Reserve regulations that mandate regular stress tests for large financial institutions to assess their ability to withstand adverse economic scenarios. These tests evaluate the institution's capital adequacy and risk management practices.
+Regulation H (Membership of State Banking Institutions),"Outlines requirements for state-chartered banks to become members of the Federal Reserve System. It addresses issues such as capitalization, reserves, and lending limits for member banks."
+Community Advisory Council (CAC),"A Federal Reserve council that provides the Board of Governors with perspectives and advice on economic conditions and the financial needs of underserved and low- to moderate-income communities, reflecting a regulatory focus on financial inclusion."
+Payment System Risk (PSR) Policy,"Establishes guidelines to manage risks associated with payment, clearing, and settlement systems. The policy addresses daylight overdrafts, credit exposure, and liquidity risks to ensure the safe operation of payment systems."
+Consumer Leasing Act (CLA),"Implemented by the Federal Reserve under Regulation M, this act requires lessors of personal property (such as cars or appliances) to provide consumers with clear lease terms, including payments, fees, and conditions for early termination."
+Term Asset-Backed Securities Loan Facility (TALF),"A Federal Reserve program designed to facilitate the issuance of asset-backed securities (ABS) by providing loans to holders of eligible ABS. The goal is to stabilize the ABS market and improve the flow of credit to households and businesses, particularly in times of economic strain."
+Primary Dealer Credit Facility (PDCF),"A lending facility that allows primary dealers to borrow funds from the Federal Reserve to finance a wide range of collateral, including U.S. government securities. This facility ensures liquidity for major dealers in times of market stress."
+Commercial Paper Funding Facility (CPFF),"A Federal Reserve facility that provides liquidity to U.S. issuers of commercial paper by purchasing unsecured and asset-backed commercial paper, supporting the flow of short-term credit to businesses."
+Money Market Mutual Fund Liquidity Facility (MMLF),"A Federal Reserve program that provides loans to banks to purchase assets from money market mutual funds, ensuring liquidity and stability in money markets during financial crises."
+Swap Lines,"A tool used by the Federal Reserve to exchange currencies with foreign central banks to ensure liquidity in U.S. dollars globally, particularly during times of financial instability. These swap lines are crucial in supporting global financial systems."
+Regulation A (Discount Window Lending),"This regulation governs the Federal Reserve’s lending to depository institutions through the discount window, including setting the terms and conditions under which such loans are made, typically during liquidity shortages."
+Regulation D (Reserve Requirements),"Governs reserve requirements for depository institutions, setting the minimum amount of reserves banks must hold against deposits and limits on withdrawals from savings accounts."
+Regulation E (Electronic Funds Transfers),"Establishes the rights and responsibilities of consumers and financial institutions regarding electronic fund transfers, including ATM transactions and online banking, to protect consumers from fraud and unauthorized transfers."
+Regulation T (Credit by Brokers and Dealers),"Governs the extension of credit by brokers and dealers to customers for the purchase of securities, including setting margin requirements for such transactions."
+Regulation U (Credit by Banks for Securities Purchases),"Governs the amount of credit banks can extend for the purchase of securities, helping to limit excessive leverage in the financial system."
+Regulation BB (Community Reinvestment Act),"Implements the Community Reinvestment Act, requiring banks to meet the credit needs of their communities, particularly in low- and moderate-income areas, and ensures fair access to credit."
+Regulation CC (Availability of Funds and Collection of Checks),"Sets rules for the availability of funds and the timing of when deposited funds must be made available to customers, as well as the collection of checks through the banking system."
+Main Street Lending Program,"A Federal Reserve program designed to provide credit support to small and medium-sized businesses that were in good financial standing before the COVID-19 pandemic. It offers four-year loans to companies employing up to 15,000 workers or with revenues of up to $5 billion."
+Paycheck Protection Program Liquidity Facility (PPPLF),"A Federal Reserve program established to extend loans to financial institutions participating in the Paycheck Protection Program (PPP), which was designed to provide loans to small businesses to retain workers during the COVID-19 pandemic."
+Regulation X (Borrower Restraints on Credit Transactions),"This regulation applies to borrowers of securities credit and prohibits certain evasive actions that might circumvent the limitations imposed by Regulations T and U, ensuring the integrity of credit markets."
+Financial Stability Oversight Council (FSOC) Collaboration,"The Federal Reserve works closely with the FSOC, a body established to identify and monitor systemic risks to the financial system. While FSOC oversees macroprudential risks, the Fed focuses on ensuring financial institutions comply with regulations that maintain system stability."
+Fedwire Funds Service,"A real-time gross settlement (RTGS) system operated by the Federal Reserve Banks that allows financial institutions to electronically transfer funds in real-time, providing critical infrastructure for high-value payments in the U.S."
+Primary Market Corporate Credit Facility (PMCCF),"A Federal Reserve program that provided direct support to large employers by purchasing newly issued corporate bonds, facilitating credit availability during the COVID-19 pandemic."
+Secondary Market Corporate Credit Facility (SMCCF),"A complementary facility to the PMCCF, this allowed the Federal Reserve to purchase existing corporate bonds and exchange-traded funds (ETFs) to ensure liquidity in the corporate bond market."
+"Regulation O (Loans to Executive Officers, Directors, and Principal Shareholders)","Limits the amount of credit that a bank can extend to its executive officers, directors, and principal shareholders, aimed at preventing conflicts of interest and excessive risk-taking within financial institutions."
+Regulation D Amendments (2020),"In response to the COVID-19 pandemic, the Federal Reserve removed the six-per-month limit on transfers or withdrawals from savings accounts, allowing consumers more flexibility in accessing their savings during times of financial uncertainty."
+Liquidity Swap Lines,"A tool used by the Federal Reserve in coordination with other central banks to exchange U.S. dollars for foreign currency, ensuring liquidity in foreign exchange markets, especially in times of global financial stress."
+Regulation J (Collection of Checks and Other Items by Federal Reserve Banks),"Governs the handling of checks and other items by Federal Reserve Banks, including rules for check clearing and electronic fund transfers."
+Term Deposit Facility (TDF),"A tool used by the Federal Reserve to manage the quantity of reserves in the banking system by offering term deposits to eligible institutions, helping to drain excess reserves when needed."
+Regulation L (Interlocking Directorates),"Prohibits a person from simultaneously serving as a director or officer of two or more banks or financial institutions that are in direct competition with each other, aiming to prevent conflicts of interest."
+Regulation G (Disclosure and Reporting of CRA-Related Agreements),"Requires financial institutions and other interested parties to disclose certain agreements related to the Community Reinvestment Act (CRA), ensuring transparency in agreements designed to meet community credit needs."
+Regulation K (International Banking Operations),"Governs the international banking operations of U.S. banking organizations, including overseas branches, investments, and foreign banks' operations within the United States. This regulation ensures that international banking activities comply with U.S. laws and are monitored for safety and soundness."
+Regulation I (Issue and Cancellation of Capital Stock of Federal Reserve Banks),"Sets the rules for the issuance, transfer, and cancellation of Federal Reserve Bank stock to member banks. This regulation ensures that banks maintain the appropriate amount of stock in their Federal Reserve Bank based on their capitalization."
+Regulation R (Exceptions for Banks from Securities Broker Activities),"Provides exceptions for certain securities-related activities conducted by banks, allowing them to engage in limited brokerage services without being classified as securities brokers, which would subject them to additional regulations."
+Supervision of Systemically Important Financial Institutions (SIFIs),"Refers to the Federal Reserve’s enhanced supervision of institutions deemed systemically important due to their size, complexity, and interconnectedness. This supervision includes stricter capital and liquidity requirements to mitigate risks to the broader financial system."
+Regulation DD (Truth in Savings Act),"Requires depository institutions to provide clear and uniform information about interest rates, fees, and terms of deposit accounts to consumers, helping consumers make informed decisions about savings accounts."
+Regulation CC Amendments (Expedited Funds Availability),"Sets the timeframes for when deposited funds, particularly checks, must be made available to consumers. Recent amendments have focused on speeding up the availability of funds and modernizing the check collection process."
+Regulation AA (Unfair or Deceptive Acts or Practices),A now-defunct regulation that previously outlined the Federal Reserve's authority to address unfair or deceptive acts or practices in the banking industry. It was intended to protect consumers from abusive lending and other harmful financial practices.
+Intraday Liquidity Management,"Refers to Federal Reserve guidelines that require financial institutions to manage their liquidity positions throughout the business day, ensuring that they can meet payment obligations as they come due. This is critical for the smooth functioning of the payment system and broader financial markets."
+Regulation NN (Unclaimed Balances),"Governs how Federal Reserve Banks handle unclaimed balances, requiring them to keep detailed records of such balances and report them to the Treasury after a certain period if unclaimed by the depositor or their legal representative."
+Regulation RR (Credit Risk Retention),"Part of the Dodd-Frank Act, this regulation requires securitizers of asset-backed securities (ABS) to retain at least 5% of the credit risk, encouraging them to align their interests with those of investors and prevent excessive risk-taking."
+Federal Reserve Act Section 13(3) Emergency Lending Powers,"Grants the Federal Reserve the authority to lend to non-bank entities in “unusual and exigent circumstances,” as seen during the 2008 financial crisis and the COVID-19 pandemic, providing critical liquidity to stabilize financial markets."
+Interest Rate Risk (IRR) Management,"Guidelines issued by the Federal Reserve for banks to manage their exposure to changes in interest rates, ensuring that they have strategies to mitigate potential negative impacts on earnings or capital."
+Payment System Risk (PSR) Policy,"Establishes policies for managing the risks posed by large-dollar payments processed through Fedwire and other payment systems, aiming to reduce systemic risk from delayed or failed payments."
+Principles for Financial Market Infrastructures (PFMI),"The Federal Reserve applies these international standards to ensure that payment systems, clearinghouses, and central securities depositories operate in a way that promotes financial stability."
+Federal Reserve Supervisory Letters (SR Letters),"Official guidance issued by the Federal Reserve to banks and other supervised entities on regulatory expectations, covering topics like capital adequacy, liquidity, and risk management."
+Supplementary Leverage Ratio (SLR),"A regulatory requirement that large U.S. banks must maintain a minimum ratio of tier 1 capital to leverage exposure, enhancing the resilience of the banking system during financial stress."
+Regulation H (Lending Limits for State-Member Banks),"This provision under Regulation H sets lending limits for state-chartered member banks to avoid excessive exposure to individual borrowers, promoting diversification and reducing risk."
+Bank Secrecy Act (BSA) Compliance,"Refers to the Federal Reserve’s guidelines for banks to comply with anti-money laundering (AML) laws under the BSA, including requirements for reporting suspicious activities and maintaining internal controls."
+Financial Market Utilities (FMU) Supervision,"Involves the Federal Reserve’s oversight of systemically important FMUs, such as clearinghouses and payment systems, to ensure their resilience and ability to function during financial stress."
+Net Stable Funding Ratio (NSFR),A regulatory requirement aimed at promoting the stability of banks by ensuring they maintain a stable funding profile relative to their assets over a one-year period.
+Regulation EE (Financial Market Participants),"Defines certain financial institutions, such as banks and clearing organizations, as “financial market participants,” exempting them from certain restrictions on netting contracts under bankruptcy laws."
+Operational Risk Management,"Guidelines from the Federal Reserve that require banks to identify, assess, and mitigate risks stemming from failed internal processes, systems, or external events to ensure operational continuity."
+Enhanced Prudential Standards (EPS),"A set of heightened regulations for large, systemically important financial institutions (SIFIs) to mitigate risks that could pose threats to the overall financial system, covering capital, liquidity, and risk management."
+Small Bank Holding Company and Savings and Loan Holding Company Policy Statement,"A Federal Reserve rule allowing smaller bank holding companies to operate with less regulatory capital than larger ones, promoting flexibility for community banks."
+Resolution Planning (Recovery and Resolution Plans),Requires large financial institutions to submit plans to the Federal Reserve outlining how they would recover from financial distress or be wound down in an orderly way without disrupting the financial system.
+Large Institution Supervision Coordinating Committee (LISCC),"The Federal Reserve’s committee responsible for overseeing the supervision of the largest, most complex financial institutions in the U.S., including the enforcement of safety and soundness standards."
+Supervisory Stress Scenarios,"The Federal Reserve provides these economic and financial scenarios to large financial institutions, which they use to conduct internal stress tests to evaluate their resilience under adverse conditions."
+Federal Reserve Capital Plan Rule,"A rule that requires large banks to submit capital plans annually, ensuring that they have adequate capital to cover potential losses in stressed economic conditions."
+Liquidity Stress Testing Guidelines,Federal Reserve guidelines that mandate banks to perform regular stress tests to assess their ability to maintain adequate liquidity under adverse market conditions.
+Lender of Last Resort (LOLR),"A core function of the Federal Reserve, where it provides emergency liquidity to financial institutions facing short-term liquidity shortages, helping to stabilize the financial system during crises."
+Large Institution Supervision Coordinating Committee (LISCC) Framework,"The LISCC is an oversight framework by the Federal Reserve that focuses on the supervision of the largest, most complex financial institutions in the U.S. It addresses risks to financial stability by ensuring robust risk management, liquidity, and capital standards for these systemically important institutions."
