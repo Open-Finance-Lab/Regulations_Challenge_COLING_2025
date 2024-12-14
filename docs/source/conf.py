@@ -11,9 +11,9 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Quantum Education Modules'
-copyright = '2024, Quantum Education Modules'
-author = 'Quantum Education Modules'
+project = 'Regulations Challenge'
+copyright = '2024, Regulations Challenge'
+author = 'Regulations Challenge'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -43,8 +43,8 @@ html_static_path = ['_static']
 
 html_context = {
     "display_github": True, # Integrate GitHub
-    "github_user": "Chriun", # Username
-    "github_repo": "CSCI4961_labs_projects", # Repo name
+    "github_user": "Open-Finance-Lab", # Username
+    "github_repo": "Regulations_Challenge", # Repo name
     "github_version": "main", # Version
     "conf_py_path": "/docs/source/", # Path in the checkout to the docs root
 }
