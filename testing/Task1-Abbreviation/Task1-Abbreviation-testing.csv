@@ -1,43 +1,43 @@
 abbreviations,answer
-RTS on reporting,"Commission Delegated Regulation (EU) No 2022/1855 of 10 June 2022 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories with regard to regulatory technical standards specifying the minimum details of the data to be reported to trade repositories and the type of reports to be used"
-ITS on reporting,"Commission Implementing Regulation (EU) No 2022/1860 of 10 June 2022 laying down implementing technical standards for the application of Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories, with regard to the standards, formats, frequency and methods and arrangements for reporting and repealing Implementing Regulation (EU) No 1247/2012"
-RTS on registration,"Commission Delegated Regulation (EU) No 150/2013 of 19 December 2012 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories with regard to regulatory technical standards specifying the details of the application for registration as a trade repository, as amended by Commission Delegated Regulation (EU) 2019/362 of 13 December 2018 5 and by Commission Delegated Regulation (EU) 2022/1857"
-RTS on data quality,"Commission Delegated Regulation (EU) No 2022/1858 of 10 June 2022 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories, with regard to regulatory technical standards specifying the procedures for the reconciliation of data between trade repositories and the procedures to be applied by the trade repository to verify the compliance by the reporting counterparty or submitting entity with the reporting requirements and to verify the completeness and TRUEness of the data reported"
-RTS on data access,"Commission Delegated Regulation (EU) No 151/2013 of 19 December 2012 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories, with regard to regulatory technical standards specifying the data to be published and made available by trade repositories and operational standards for aggregating, comparing and accessing the data, as amended by Commission Delegated Regulation (EU) 2017/1800 and by Commission Delegated Regulation (EU) 2019/361, as amended by the Commission Delegated Regulation (EU) .  2022/185"
-RTS on organisation requirements,Commission Delegated Regulation (EU) 2017/565 of 25 April 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive  
-CFI code,Classification of Financial Instruments code 
-CM,Clearing Member 
-CP,Consultation paper on Guidelines on Reporting under EMIR 
-CP on RTS/ITS,"Consultation paper on the technical standards on reporting, data quality, data access and registration of TRs under EMIR REFIT9 "
-FR on RTS/ITS,"Final report on the technical standards on reporting, data quality, data access and registration of TRs under EMIR REFIT10 "
-CPMI,Committee on Payments and Market Infrastructures 
-EC,European Commission 
-ECB,European Central Bank 
-EEA,European Economic Area 
-ERR,Entity responsible for reporting 
-ESCB,European System of Central Banks 
-EU,European Union 
-FIRDS,Financial Instruments Reference Data System 
-FSB,Financial Stability Board 
-IOSCO,International Organisation of Securities Commissions 
-ISIN,International Securities Identification Number 
-LEI,Legal entity identifier 
-ISO,International Organization for Standardization 
-MIC,Market identifier code 
-NCA,National Competent Authority 
-OJ,The Official Journal of the European Union 
-RSE,Report submitting entity 
-SWIFT,Society for Worldwide Interbank Financial Telecommunication 
-TR,Trade repository 
+RTS on reporting,Regulatory Technical Standards on Reporting
+ITS on reporting,International Transaction Reporting System
+RTS on registration,Regulatory Technical Standards on Registration
+RTS on data quality,Regulatory Technical Standards on Data Quality
+RTS on data access,Regulatory Technical Standards on Data Access
+RTS on organisation requirements,Regulatory Technical Standards on Organisation Requirements
+CFI code,Classification of Financial Instruments code
+CM,Clearing Member
+CP,Consultation paper on Guidelines on Reporting under EMIR
+CP on RTS/ITS,"Consultation paper on the technical standards on reporting, data quality, data access and registration of TRs under EMIR REFIT9"
+FR on RTS/ITS,"Final report on the technical standards on reporting, data quality, data access and registration of TRs under EMIR REFIT10"
+CPMI,Committee on Payments and Market Infrastructures
+EC,European Commission
+ECB,European Central Bank
+EEA,European Economic Area
+ERR,Entity responsible for reporting
+ESCB,European System of Central Banks
+EU,European Union
+FIRDS,Financial Instruments Reference Data System
+FSB,Financial Stability Board
+IOSCO,International Organisation of Securities Commissions
+ISIN,International Securities Identification Number
+LEI,Legal entity identifier
+ISO,International Organization for Standardization
+MIC,Market identifier code
+NCA,National Competent Authority
+OJ,The Official Journal of the European Union
+RSE,Report submitting entity
+SWIFT,Society for Worldwide Interbank Financial Telecommunication
+TR,Trade repository
 UTI,Unique Transaction Identifier
-XML,Extensible Mark-up Language 
+XML,Extensible Mark-up Language
 XSD,XML Schema Definition
 ESRB,European Systemic Risk Board
-UCITS,undertaking for collective investment in transferable securities 
+UCITS,undertaking for collective investment in transferable securities
 EBA,European Banking Authority
 EIOPA,European Insurance and Occupational Pensions Authority
-TFEU, Treaty on the Functioning of the European Union 
-IORP, institution for occupational retirement provision 
+TFEU,Treaty on the Functioning of the European Union
+IORP,institution for occupational retirement provision
 AIF,Alternative Investment Fund
 AIFM,Alternative Investment Fund Managers
 AIFMD,Alternative Investment Fund Managers Directive
@@ -84,23 +84,23 @@ CIISI-EU,Cyber threat Intelligence Information Sharing Initiative
 CSIRTS,Computer Security Incident Response Teams
 T2S,TARGET2-Securites
 TIPS,TARGET Instant Payment Settlement
-FMIs,financial market infrastructures 
+FMIs,financial market infrastructures
 SSM,Single Supervisory Mechanism
 TIBER-EU,Threat Intelligence Based Ethical Red-teaming
 TCT,TIBER Cyber Team
 DOI,declaration of interests
 DG AGRI,Directorate-General for Agriculture and Rural Development
-EGTOP, Expert Group for Technical Advice on Organic Production
+EGTOP,Expert Group for Technical Advice on Organic Production
 SCA,Surveillance Authority and a Court of Justice
 INSEE,Institute of Statistics and Economic Studies
-RRF,Recovery and Resilience Facility 
+RRF,Recovery and Resilience Facility
 SDGs,Sustainable Development Goals
 RP,Recovery Plan
 EMU,Economic and Monetary Union
 CSOs,civil society organisations
 NRRPs,National Recovery and Resilience Plans
 OCS,organised civil society
-EPPO,European Public Prosecutor’s Office
+EPPO,European Public Prosecutor�s Office
 CPSR,Contractor Purchasing System Review
 DCMA,Defense Contract Management Agency
 ACO,"Administrative Contracting Officer,"
@@ -122,7 +122,7 @@ DDM,dividend discount model
 DPS,dividend per share
 DBA,doing business as
 DCA,dollar-cost averaging
-DK,don’t know
+DK,don�t know
 DUI,driving under the influence
 DWI,driving while intoxicated
 EED,expiring exercise declaration
@@ -344,7 +344,7 @@ FPO,First Potomac Realty Trust Common Shares of Beneficial Interest
 FPO$A,First Potomac Realty Trust CUMULATIVE REDEEMABLE PFD PERPETUAL SER A
 FPT,Federated Premier Intermediate Municipal Income Fund Federated Premier Intermediate Municipal Income Fund
 FR,"First Industrial Realty Trust, Inc. Common Stock"
-FRA,Blackrock Floating Rate Income Strategies Fund Inc  Common Stock
+FRA,Blackrock Floating Rate Income Strategies Fund Inc Common Stock
 FRC,FIRST REPUBLIC BANK Common Stock
 GGE,Guggenheim Enhanced Equity Strategy Fund
 GGG,Graco Inc. Common Stock
@@ -376,7 +376,7 @@ GS$K,"Goldman Sachs Group, Inc. (The) Dep Shs Repstg 1/1000 Int Sh Fxd/Fltg Non 
 GSF,"Goldman Sachs Group, Inc. (The) 6.125% Notes due 2060"
 GSH,Guangshen Railway Company Limited Common Stock
 GSI,"General Steel Holdings, Inc. Common Stock"
-GSJ,"Goldman Sachs Group, Inc. (The) 6.50% Notes due 2061"
+GSJ,"Goldman Sachs Group, Inc."
 GSK,GlaxoSmithKline PLC Common Stock
 GSL,Global Ship Lease Inc New Class A Common Shares
 GSL$B,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)"
